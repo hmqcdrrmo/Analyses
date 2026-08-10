@@ -1,0 +1,45 @@
+CDEHab vs MDHab Rainfall Event Comparison
+===========================================
+
+Method
+------
+Hourly statistics are means across active reporting sensors. Daily rainfall is calculated by accumulating each qualifying sensor-day first and then averaging those daily totals across sensors. A sensor-day must retain at least 90% of its 24 expected hourly values. Flagged readings are omitted and are not imputed.
+Invalid/physically inadmissible readings are removed automatically. Statistical high outliers are removed only when they are unusually high both relative to the network at that hour and relative to the same sensor's surrounding hours. Zero rainfall remains valid, except that an all-zero sensor over the entire event is treated as inactive by default. Review outlier_audit.csv and sensor_status.csv before using the results operationally or in a publication.
+The two events use different sensor rosters. The results therefore compare network-wide averages, not matched readings from an identical set of stations.
+
+Event statistics
+----------------
+CDEHab
+  Period: 19 Jul 2025 00:00 PHT to 21 Jul 2025 23:00 PHT
+  Sensors: 23 active of 55; excluded — all_zero: 32
+  Clean-data completeness among active sensors: 100.0%
+  Event-total network-average rainfall: 555.04 mm
+  Mean daily network-average rainfall: 185.01 mm
+  Median daily network-average rainfall: 189.59 mm
+  Wettest day: 21 Jul 2025 (309.01 mm)
+  Peak network-mean hour: 21 Jul 2025 18:00 PHT (41.46 mm)
+  Highest retained station-hour: Ismael Mathay Senior High School, 21 Jul 2025 12:00 PHT (161.00 mm)
+  Omitted cell values: 0, including 0 statistical high outlier(s)
+
+MDHab
+  Period: 07 Aug 2026 00:00 PHT to 09 Aug 2026 23:00 PHT
+  Sensors: 62 active of 62; excluded — none
+  Clean-data completeness among active sensors: 100.0%
+  Event-total network-average rainfall: 271.99 mm
+  Mean daily network-average rainfall: 90.66 mm
+  Median daily network-average rainfall: 108.53 mm
+  Wettest day: 08 Aug 2026 (128.70 mm)
+  Peak network-mean hour: 09 Aug 2026 10:00 PHT (22.43 mm)
+  Highest retained station-hour: Holy Spirit, 09 Aug 2026 10:00 PHT (101.00 mm)
+  Omitted cell values: 0, including 0 statistical high outlier(s)
+
+Direct comparison
+-----------------
+MDHab recorded an event-total network-average rainfall of 271.99 mm, compared with 555.04 mm for CDEHab. The difference was -283.04 mm (51.0% lower).
+Mean daily network-average rainfall differed by -94.35 mm/day; the peak network-mean hour differed by -19.03 mm/h.
+
+Successive-day daily values
+---------------------------
+Day 1 — CDEHab: 189.59 mm; MDHab: 34.76 mm
+Day 2 — CDEHab: 56.43 mm; MDHab: 128.70 mm
+Day 3 — CDEHab: 309.01 mm; MDHab: 108.53 mm

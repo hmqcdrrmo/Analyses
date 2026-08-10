@@ -1,0 +1,7 @@
+﻿event,day_number,date,network_average_daily_accumulation_mm,network_median_daily_accumulation_mm,minimum_station_daily_accumulation_mm,maximum_station_daily_accumulation_mm,station_daily_standard_deviation_mm,qualifying_sensors,active_sensors,sum_of_hourly_network_means_mm
+CDEHab,1,2025-07-19,189.593,176.000,144.000,382.150,54.008,23,23,189.593
+CDEHab,2,2025-07-20,56.431,47.000,29.000,160.420,28.462,23,23,56.431
+CDEHab,3,2025-07-21,309.011,280.500,201.500,677.000,115.957,23,23,309.011
+MDHab,1,2026-08-07,34.758,36.250,1.000,103.000,16.077,62,62,34.758
+MDHab,2,2026-08-08,128.705,115.700,0.500,345.510,55.410,62,62,128.705
+MDHab,3,2026-08-09,108.531,98.350,2.500,321.000,46.425,62,62,108.531
