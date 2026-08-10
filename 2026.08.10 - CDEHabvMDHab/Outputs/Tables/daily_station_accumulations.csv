@@ -1,256 +1,256 @@
-﻿event,day_number,date,station,daily_accumulation_mm,valid_hours,expected_hours,qualifies_for_daily_average
-CDEHab,1,2025-07-19,Amoranto Sport Complex,187.000,24,24,True
-CDEHab,1,2025-07-19,Bagong Silangan Evacuation Center,176.000,24,24,True
-CDEHab,1,2025-07-19,Balingasa High School,166.000,24,24,True
-CDEHab,1,2025-07-19,Brgy. Baesa,176.000,24,24,True
-CDEHab,1,2025-07-19,Brgy. Fairview,146.500,24,24,True
-CDEHab,1,2025-07-19,Brgy. NS Amoranto,167.500,24,24,True
-CDEHab,1,2025-07-19,Brgy. Valencia,188.500,24,24,True
-CDEHab,1,2025-07-19,Dona Juana Elementary School,172.000,24,24,True
-CDEHab,1,2025-07-19,Ismael Mathay Senior High School,318.000,24,24,True
-CDEHab,1,2025-07-19,Jose Maria Panganiban Senior High School,144.000,24,24,True
-CDEHab,1,2025-07-19,Jose P Laurel Senior High School,173.500,24,24,True
-CDEHab,1,2025-07-19,Kaingin 1 Satellite Office,207.500,24,24,True
-CDEHab,1,2025-07-19,Kalusugan Brgy Hall,185.500,24,24,True
-CDEHab,1,2025-07-19,Maharlika Brgy Hall,176.500,24,24,True
-CDEHab,1,2025-07-19,New Era Brgy Hall,191.000,24,24,True
-CDEHab,1,2025-07-19,North Fairview Elementary School,158.500,24,24,True
-CDEHab,1,2025-07-19,Old Balara Elementary School,193.500,24,24,True
-CDEHab,1,2025-07-19,Pinyahan Multipurpose Hall,187.500,24,24,True
-CDEHab,1,2025-07-19,QCDRRMO,382.150,24,24,True
-CDEHab,1,2025-07-19,Quirino High School,186.500,24,24,True
-CDEHab,1,2025-07-19,San Agustin Brgy Hall,145.500,24,24,True
-CDEHab,1,2025-07-19,Sauyo Elementary School,159.000,24,24,True
-CDEHab,1,2025-07-19,Toro Hills Elementary School,172.500,24,24,True
-CDEHab,2,2025-07-20,Amoranto Sport Complex,62.500,24,24,True
-CDEHab,2,2025-07-20,Bagong Silangan Evacuation Center,39.500,24,24,True
-CDEHab,2,2025-07-20,Balingasa High School,29.000,24,24,True
-CDEHab,2,2025-07-20,Brgy. Baesa,37.000,24,24,True
-CDEHab,2,2025-07-20,Brgy. Fairview,45.000,24,24,True
-CDEHab,2,2025-07-20,Brgy. NS Amoranto,42.000,24,24,True
-CDEHab,2,2025-07-20,Brgy. Valencia,89.000,24,24,True
-CDEHab,2,2025-07-20,Dona Juana Elementary School,32.000,24,24,True
-CDEHab,2,2025-07-20,Ismael Mathay Senior High School,64.000,24,24,True
-CDEHab,2,2025-07-20,Jose Maria Panganiban Senior High School,35.000,24,24,True
-CDEHab,2,2025-07-20,Jose P Laurel Senior High School,84.000,24,24,True
-CDEHab,2,2025-07-20,Kaingin 1 Satellite Office,60.500,24,24,True
-CDEHab,2,2025-07-20,Kalusugan Brgy Hall,66.000,24,24,True
-CDEHab,2,2025-07-20,Maharlika Brgy Hall,38.000,24,24,True
-CDEHab,2,2025-07-20,New Era Brgy Hall,46.500,24,24,True
-CDEHab,2,2025-07-20,North Fairview Elementary School,51.000,24,24,True
-CDEHab,2,2025-07-20,Old Balara Elementary School,48.000,24,24,True
-CDEHab,2,2025-07-20,Pinyahan Multipurpose Hall,67.500,24,24,True
-CDEHab,2,2025-07-20,QCDRRMO,160.420,24,24,True
-CDEHab,2,2025-07-20,Quirino High School,81.000,24,24,True
-CDEHab,2,2025-07-20,San Agustin Brgy Hall,47.000,24,24,True
-CDEHab,2,2025-07-20,Sauyo Elementary School,40.000,24,24,True
-CDEHab,2,2025-07-20,Toro Hills Elementary School,33.000,24,24,True
-CDEHab,3,2025-07-21,Amoranto Sport Complex,225.500,24,24,True
-CDEHab,3,2025-07-21,Bagong Silangan Evacuation Center,331.500,24,24,True
-CDEHab,3,2025-07-21,Balingasa High School,238.500,24,24,True
-CDEHab,3,2025-07-21,Brgy. Baesa,340.500,24,24,True
-CDEHab,3,2025-07-21,Brgy. Fairview,351.000,24,24,True
-CDEHab,3,2025-07-21,Brgy. NS Amoranto,238.000,24,24,True
-CDEHab,3,2025-07-21,Brgy. Valencia,213.000,24,24,True
-CDEHab,3,2025-07-21,Dona Juana Elementary School,327.000,24,24,True
-CDEHab,3,2025-07-21,Ismael Mathay Senior High School,677.000,24,24,True
-CDEHab,3,2025-07-21,Jose Maria Panganiban Senior High School,365.500,24,24,True
-CDEHab,3,2025-07-21,Jose P Laurel Senior High School,205.500,24,24,True
-CDEHab,3,2025-07-21,Kaingin 1 Satellite Office,249.500,24,24,True
-CDEHab,3,2025-07-21,Kalusugan Brgy Hall,216.000,24,24,True
-CDEHab,3,2025-07-21,Maharlika Brgy Hall,244.500,24,24,True
-CDEHab,3,2025-07-21,New Era Brgy Hall,267.000,24,24,True
-CDEHab,3,2025-07-21,North Fairview Elementary School,351.000,24,24,True
-CDEHab,3,2025-07-21,Old Balara Elementary School,280.500,24,24,True
-CDEHab,3,2025-07-21,Pinyahan Multipurpose Hall,220.000,24,24,True
-CDEHab,3,2025-07-21,QCDRRMO,576.250,24,24,True
-CDEHab,3,2025-07-21,Quirino High School,201.500,24,24,True
-CDEHab,3,2025-07-21,San Agustin Brgy Hall,338.500,24,24,True
-CDEHab,3,2025-07-21,Sauyo Elementary School,368.000,24,24,True
-CDEHab,3,2025-07-21,Toro Hills Elementary School,281.500,24,24,True
-MDHab,1,2026-08-07,Amoranto Sport Complex,40.000,24,24,True
-MDHab,1,2026-08-07,Aurora A. Quezon ES,37.000,24,24,True
-MDHab,1,2026-08-07,Bagong Lipunan ng Crame Brgy. Hall,36.000,24,24,True
-MDHab,1,2026-08-07,Bagong Silangan Evacuation Center,20.000,24,24,True
-MDHab,1,2026-08-07,Bagumbayan ES,28.500,24,24,True
-MDHab,1,2026-08-07,Balingasa Elementary School,43.400,24,24,True
-MDHab,1,2026-08-07,Balingasa High School,41.260,24,24,True
-MDHab,1,2026-08-07,Batasan Hills,23.040,24,24,True
-MDHab,1,2026-08-07,Brgy Baesa Hall,40.000,24,24,True
-MDHab,1,2026-08-07,Brgy Fairview (REC),19.500,24,24,True
-MDHab,1,2026-08-07,Brgy N.S Amoranto Hall,40.500,24,24,True
-MDHab,1,2026-08-07,Brgy Valencia Hall,40.500,24,24,True
-MDHab,1,2026-08-07,Brgy.Tatalon Multipurpose Hall,39.500,24,24,True
-MDHab,1,2026-08-07,Carlos P. Garcia HS,42.500,24,24,True
-MDHab,1,2026-08-07,Commonwealth High School,13.600,24,24,True
-MDHab,1,2026-08-07,Dona Imelda,36.500,24,24,True
-MDHab,1,2026-08-07,Dona Juana Elementary School,1.000,24,24,True
-MDHab,1,2026-08-07,Emilio Jacinto Sr HS,23.500,24,24,True
-MDHab,1,2026-08-07,Flora A Ylagan High School,42.400,24,24,True
-MDHab,1,2026-08-07,Holy Spirit,50.500,24,24,True
-MDHab,1,2026-08-07,Ismael Mathay Senior High School,33.230,24,24,True
-MDHab,1,2026-08-07,Jose Maria Panganiban Senior High School,21.000,24,24,True
-MDHab,1,2026-08-07,Jose P Laurel Senior High School,38.000,24,24,True
-MDHab,1,2026-08-07,Kaligayahan,20.000,24,24,True
-MDHab,1,2026-08-07,Kalusugan Brgy Hall,39.500,24,24,True
-MDHab,1,2026-08-07,Kaunlaran Barangay Hall,33.000,24,24,True
-MDHab,1,2026-08-07,Laging Handa Hall,40.000,24,24,True
-MDHab,1,2026-08-07,Lagro High School,20.400,24,24,True
-MDHab,1,2026-08-07,Libis,33.500,24,24,True
-MDHab,1,2026-08-07,Lupang Pangako Elementary School,18.310,24,24,True
-MDHab,1,2026-08-07,Maharlika Brgy Hall,38.500,24,24,True
-MDHab,1,2026-08-07,Maligaya High School,17.500,24,24,True
-MDHab,1,2026-08-07,Mariana Barangay Hall,35.500,24,24,True
-MDHab,1,2026-08-07,Masambong,45.500,24,24,True
-MDHab,1,2026-08-07,Nagkaisang Nayon,57.500,24,24,True
-MDHab,1,2026-08-07,New Era Brgy Hall,26.500,24,24,True
-MDHab,1,2026-08-07,North Fairview Elementary School,20.000,24,24,True
-MDHab,1,2026-08-07,Old Balara Elementary School,22.000,24,24,True
-MDHab,1,2026-08-07,Pansol Kaingin 1 Brgy Satellite Office,27.500,24,24,True
-MDHab,1,2026-08-07,Payatas ES,21.500,24,24,True
-MDHab,1,2026-08-07,Phil-Am,100.500,24,24,True
-MDHab,1,2026-08-07,Pinyahan Multipurose Hall,45.520,24,24,True
-MDHab,1,2026-08-07,Placido Del Mundo Elementary School,23.800,24,24,True
-MDHab,1,2026-08-07,Project 6 Barangay Hall,35.000,24,24,True
-MDHab,1,2026-08-07,QCU,24.000,24,24,True
-MDHab,1,2026-08-07,Quezon City University San Francisco Campus,42.000,24,24,True
-MDHab,1,2026-08-07,Quirino High School,41.500,24,24,True
-MDHab,1,2026-08-07,Ramon Magsaysay Brgy Hall,38.500,24,24,True
-MDHab,1,2026-08-07,Ramon Magsaysay Elementary School,40.800,24,24,True
-MDHab,1,2026-08-07,Ramon Magsaysay HS,36.500,24,24,True
-MDHab,1,2026-08-07,Sacred Heart BH,40.500,24,24,True
-MDHab,1,2026-08-07,San Agustin Brgy Hall,22.500,24,24,True
-MDHab,1,2026-08-07,San Roque Barangay Hall,30.800,24,24,True
-MDHab,1,2026-08-07,Sauyo Elementary School,22.500,24,24,True
-MDHab,1,2026-08-07,Sikatuna Brgy Hall,41.000,24,24,True
-MDHab,1,2026-08-07,South Triangle,103.000,24,24,True
-MDHab,1,2026-08-07,Talipapa,29.200,24,24,True
-MDHab,1,2026-08-07,Tandang Sora,20.500,24,24,True
-MDHab,1,2026-08-07,Toro Hills Elementary School,40.000,24,24,True
-MDHab,1,2026-08-07,Ugong Norte,37.530,24,24,True
-MDHab,1,2026-08-07,UP Village,41.680,24,24,True
-MDHab,1,2026-08-07,White Plains Barangay Hall,29.500,24,24,True
-MDHab,2,2026-08-08,Amoranto Sport Complex,110.500,24,24,True
-MDHab,2,2026-08-08,Aurora A. Quezon ES,105.500,24,24,True
-MDHab,2,2026-08-08,Bagong Lipunan ng Crame Brgy. Hall,103.000,24,24,True
-MDHab,2,2026-08-08,Bagong Silangan Evacuation Center,128.500,24,24,True
-MDHab,2,2026-08-08,Bagumbayan ES,96.500,24,24,True
-MDHab,2,2026-08-08,Balingasa Elementary School,122.200,24,24,True
-MDHab,2,2026-08-08,Balingasa High School,127.020,24,24,True
-MDHab,2,2026-08-08,Batasan Hills,131.180,24,24,True
-MDHab,2,2026-08-08,Brgy Baesa Hall,122.500,24,24,True
-MDHab,2,2026-08-08,Brgy Fairview (REC),118.500,24,24,True
-MDHab,2,2026-08-08,Brgy N.S Amoranto Hall,105.500,24,24,True
-MDHab,2,2026-08-08,Brgy Valencia Hall,110.500,24,24,True
-MDHab,2,2026-08-08,Brgy.Tatalon Multipurpose Hall,99.000,24,24,True
-MDHab,2,2026-08-08,Carlos P. Garcia HS,109.000,24,24,True
-MDHab,2,2026-08-08,Commonwealth High School,93.000,24,24,True
-MDHab,2,2026-08-08,Dona Imelda,106.500,24,24,True
-MDHab,2,2026-08-08,Dona Juana Elementary School,0.500,24,24,True
-MDHab,2,2026-08-08,Emilio Jacinto Sr HS,126.000,24,24,True
-MDHab,2,2026-08-08,Flora A Ylagan High School,112.800,24,24,True
-MDHab,2,2026-08-08,Holy Spirit,291.000,24,24,True
-MDHab,2,2026-08-08,Ismael Mathay Senior High School,137.410,24,24,True
-MDHab,2,2026-08-08,Jose Maria Panganiban Senior High School,119.000,24,24,True
-MDHab,2,2026-08-08,Jose P Laurel Senior High School,115.000,24,24,True
-MDHab,2,2026-08-08,Kaligayahan,107.000,24,24,True
-MDHab,2,2026-08-08,Kalusugan Brgy Hall,108.000,24,24,True
-MDHab,2,2026-08-08,Kaunlaran Barangay Hall,97.800,24,24,True
-MDHab,2,2026-08-08,Laging Handa Hall,105.000,24,24,True
-MDHab,2,2026-08-08,Lagro High School,113.400,24,24,True
-MDHab,2,2026-08-08,Libis,105.500,24,24,True
-MDHab,2,2026-08-08,Lupang Pangako Elementary School,128.400,24,24,True
-MDHab,2,2026-08-08,Maharlika Brgy Hall,113.500,24,24,True
-MDHab,2,2026-08-08,Maligaya High School,102.500,24,24,True
-MDHab,2,2026-08-08,Mariana Barangay Hall,102.500,24,24,True
-MDHab,2,2026-08-08,Masambong,121.000,24,24,True
-MDHab,2,2026-08-08,Nagkaisang Nayon,298.000,24,24,True
-MDHab,2,2026-08-08,New Era Brgy Hall,127.500,24,24,True
-MDHab,2,2026-08-08,North Fairview Elementary School,130.500,24,24,True
-MDHab,2,2026-08-08,Old Balara Elementary School,133.500,24,24,True
-MDHab,2,2026-08-08,Pansol Kaingin 1 Brgy Satellite Office,134.000,24,24,True
-MDHab,2,2026-08-08,Payatas ES,134.500,24,24,True
-MDHab,2,2026-08-08,Phil-Am,294.500,24,24,True
-MDHab,2,2026-08-08,Pinyahan Multipurose Hall,118.000,24,24,True
-MDHab,2,2026-08-08,Placido Del Mundo Elementary School,116.400,24,24,True
-MDHab,2,2026-08-08,Project 6 Barangay Hall,123.400,24,24,True
-MDHab,2,2026-08-08,QCU,125.000,24,24,True
-MDHab,2,2026-08-08,Quezon City University San Francisco Campus,129.000,24,24,True
-MDHab,2,2026-08-08,Quirino High School,108.000,24,24,True
-MDHab,2,2026-08-08,Ramon Magsaysay Brgy Hall,121.500,24,24,True
-MDHab,2,2026-08-08,Ramon Magsaysay Elementary School,107.000,24,24,True
-MDHab,2,2026-08-08,Ramon Magsaysay HS,105.500,24,24,True
-MDHab,2,2026-08-08,Sacred Heart BH,110.500,24,24,True
-MDHab,2,2026-08-08,San Agustin Brgy Hall,109.000,24,24,True
-MDHab,2,2026-08-08,San Roque Barangay Hall,98.800,24,24,True
-MDHab,2,2026-08-08,Sauyo Elementary School,121.500,24,24,True
-MDHab,2,2026-08-08,Sikatuna Brgy Hall,108.500,24,24,True
-MDHab,2,2026-08-08,South Triangle,283.500,24,24,True
-MDHab,2,2026-08-08,Talipapa,140.930,24,24,True
-MDHab,2,2026-08-08,Tandang Sora,345.510,24,24,True
-MDHab,2,2026-08-08,Toro Hills Elementary School,123.000,24,24,True
-MDHab,2,2026-08-08,Ugong Norte,114.690,24,24,True
-MDHab,2,2026-08-08,UP Village,123.250,24,24,True
-MDHab,2,2026-08-08,White Plains Barangay Hall,99.000,24,24,True
-MDHab,3,2026-08-09,Amoranto Sport Complex,92.500,24,24,True
-MDHab,3,2026-08-09,Aurora A. Quezon ES,80.000,24,24,True
-MDHab,3,2026-08-09,Bagong Lipunan ng Crame Brgy. Hall,86.500,24,24,True
-MDHab,3,2026-08-09,Bagong Silangan Evacuation Center,154.000,24,24,True
-MDHab,3,2026-08-09,Bagumbayan ES,84.000,24,24,True
-MDHab,3,2026-08-09,Balingasa Elementary School,95.210,24,24,True
-MDHab,3,2026-08-09,Balingasa High School,99.740,24,24,True
-MDHab,3,2026-08-09,Batasan Hills,112.850,24,24,True
-MDHab,3,2026-08-09,Brgy Baesa Hall,99.500,24,24,True
-MDHab,3,2026-08-09,Brgy Fairview (REC),116.500,24,24,True
-MDHab,3,2026-08-09,Brgy N.S Amoranto Hall,78.500,24,24,True
-MDHab,3,2026-08-09,Brgy Valencia Hall,96.500,24,24,True
-MDHab,3,2026-08-09,Brgy.Tatalon Multipurpose Hall,89.000,24,24,True
-MDHab,3,2026-08-09,Carlos P. Garcia HS,98.500,24,24,True
-MDHab,3,2026-08-09,Commonwealth High School,100.220,24,24,True
-MDHab,3,2026-08-09,Dona Imelda,90.000,24,24,True
-MDHab,3,2026-08-09,Dona Juana Elementary School,2.500,24,24,True
-MDHab,3,2026-08-09,Emilio Jacinto Sr HS,124.270,24,24,True
-MDHab,3,2026-08-09,Flora A Ylagan High School,98.200,24,24,True
-MDHab,3,2026-08-09,Holy Spirit,321.000,24,24,True
-MDHab,3,2026-08-09,Ismael Mathay Senior High School,100.420,24,24,True
-MDHab,3,2026-08-09,Jose Maria Panganiban Senior High School,87.000,24,24,True
-MDHab,3,2026-08-09,Jose P Laurel Senior High School,99.500,24,24,True
-MDHab,3,2026-08-09,Kaligayahan,74.500,24,24,True
-MDHab,3,2026-08-09,Kalusugan Brgy Hall,90.500,24,24,True
-MDHab,3,2026-08-09,Kaunlaran Barangay Hall,87.810,24,24,True
-MDHab,3,2026-08-09,Laging Handa Hall,95.000,24,24,True
-MDHab,3,2026-08-09,Lagro High School,70.200,24,24,True
-MDHab,3,2026-08-09,Libis,94.500,24,24,True
-MDHab,3,2026-08-09,Lupang Pangako Elementary School,130.210,24,24,True
-MDHab,3,2026-08-09,Maharlika Brgy Hall,83.000,24,24,True
-MDHab,3,2026-08-09,Maligaya High School,80.000,24,24,True
-MDHab,3,2026-08-09,Mariana Barangay Hall,93.000,24,24,True
-MDHab,3,2026-08-09,Masambong,94.500,24,24,True
-MDHab,3,2026-08-09,Nagkaisang Nayon,178.500,24,24,True
-MDHab,3,2026-08-09,New Era Brgy Hall,118.500,24,24,True
-MDHab,3,2026-08-09,North Fairview Elementary School,92.000,24,24,True
-MDHab,3,2026-08-09,Old Balara Elementary School,136.000,24,24,True
-MDHab,3,2026-08-09,Pansol Kaingin 1 Brgy Satellite Office,111.500,24,24,True
-MDHab,3,2026-08-09,Payatas ES,126.500,24,24,True
-MDHab,3,2026-08-09,Phil-Am,215.500,24,24,True
-MDHab,3,2026-08-09,Pinyahan Multipurose Hall,103.500,24,24,True
-MDHab,3,2026-08-09,Placido Del Mundo Elementary School,102.220,24,24,True
-MDHab,3,2026-08-09,Project 6 Barangay Hall,107.610,24,24,True
-MDHab,3,2026-08-09,QCU,89.500,24,24,True
-MDHab,3,2026-08-09,Quezon City University San Francisco Campus,105.000,24,24,True
-MDHab,3,2026-08-09,Quirino High School,98.000,24,24,True
-MDHab,3,2026-08-09,Ramon Magsaysay Brgy Hall,99.000,24,24,True
-MDHab,3,2026-08-09,Ramon Magsaysay Elementary School,76.010,24,24,True
-MDHab,3,2026-08-09,Ramon Magsaysay HS,100.000,24,24,True
-MDHab,3,2026-08-09,Sacred Heart BH,98.000,24,24,True
-MDHab,3,2026-08-09,San Agustin Brgy Hall,67.000,24,24,True
-MDHab,3,2026-08-09,San Roque Barangay Hall,87.610,24,24,True
-MDHab,3,2026-08-09,Sauyo Elementary School,114.500,24,24,True
-MDHab,3,2026-08-09,Sikatuna Brgy Hall,102.000,24,24,True
-MDHab,3,2026-08-09,South Triangle,226.500,24,24,True
-MDHab,3,2026-08-09,Talipapa,103.580,24,24,True
-MDHab,3,2026-08-09,Tandang Sora,267.000,24,24,True
-MDHab,3,2026-08-09,Toro Hills Elementary School,96.500,24,24,True
-MDHab,3,2026-08-09,Ugong Norte,112.250,24,24,True
-MDHab,3,2026-08-09,UP Village,101.000,24,24,True
-MDHab,3,2026-08-09,White Plains Barangay Hall,94.000,24,24,True
+﻿event,day_number,date,station,daily_accumulation_mm,valid_hours,expected_hours,missing_network_wet_hours,qualifies_for_daily_statistics,daily_review_flag
+CDEHab,1,2025-07-19,Amoranto Sport Complex,187.000,24,24,0,True,False
+CDEHab,1,2025-07-19,Bagong Silangan Evacuation Center,176.000,24,24,0,True,False
+CDEHab,1,2025-07-19,Balingasa High School,166.000,24,24,0,True,False
+CDEHab,1,2025-07-19,Brgy. Baesa,176.000,24,24,0,True,False
+CDEHab,1,2025-07-19,Brgy. Fairview,146.500,24,24,0,True,False
+CDEHab,1,2025-07-19,Brgy. NS Amoranto,167.500,24,24,0,True,False
+CDEHab,1,2025-07-19,Brgy. Valencia,188.500,24,24,0,True,False
+CDEHab,1,2025-07-19,Dona Juana Elementary School,172.000,24,24,0,True,False
+CDEHab,1,2025-07-19,Ismael Mathay Senior High School,318.000,24,24,0,True,True
+CDEHab,1,2025-07-19,Jose Maria Panganiban Senior High School,144.000,24,24,0,True,False
+CDEHab,1,2025-07-19,Jose P Laurel Senior High School,173.500,24,24,0,True,False
+CDEHab,1,2025-07-19,Kaingin 1 Satellite Office,207.500,24,24,0,True,False
+CDEHab,1,2025-07-19,Kalusugan Brgy Hall,185.500,24,24,0,True,False
+CDEHab,1,2025-07-19,Maharlika Brgy Hall,176.500,24,24,0,True,False
+CDEHab,1,2025-07-19,New Era Brgy Hall,191.000,24,24,0,True,False
+CDEHab,1,2025-07-19,North Fairview Elementary School,158.500,24,24,0,True,False
+CDEHab,1,2025-07-19,Old Balara Elementary School,193.500,24,24,0,True,False
+CDEHab,1,2025-07-19,Pinyahan Multipurpose Hall,187.500,24,24,0,True,False
+CDEHab,1,2025-07-19,QCDRRMO,382.150,24,24,0,True,True
+CDEHab,1,2025-07-19,Quirino High School,186.500,24,24,0,True,False
+CDEHab,1,2025-07-19,San Agustin Brgy Hall,145.500,24,24,0,True,False
+CDEHab,1,2025-07-19,Sauyo Elementary School,159.000,24,24,0,True,False
+CDEHab,1,2025-07-19,Toro Hills Elementary School,172.500,24,24,0,True,False
+CDEHab,2,2025-07-20,Amoranto Sport Complex,62.500,24,24,0,True,False
+CDEHab,2,2025-07-20,Bagong Silangan Evacuation Center,39.500,24,24,0,True,False
+CDEHab,2,2025-07-20,Balingasa High School,29.000,24,24,0,True,False
+CDEHab,2,2025-07-20,Brgy. Baesa,37.000,24,24,0,True,False
+CDEHab,2,2025-07-20,Brgy. Fairview,45.000,24,24,0,True,False
+CDEHab,2,2025-07-20,Brgy. NS Amoranto,42.000,24,24,0,True,False
+CDEHab,2,2025-07-20,Brgy. Valencia,89.000,24,24,0,True,False
+CDEHab,2,2025-07-20,Dona Juana Elementary School,32.000,24,24,0,True,False
+CDEHab,2,2025-07-20,Ismael Mathay Senior High School,64.000,24,24,0,True,False
+CDEHab,2,2025-07-20,Jose Maria Panganiban Senior High School,35.000,24,24,0,True,False
+CDEHab,2,2025-07-20,Jose P Laurel Senior High School,84.000,24,24,0,True,False
+CDEHab,2,2025-07-20,Kaingin 1 Satellite Office,60.500,24,24,0,True,False
+CDEHab,2,2025-07-20,Kalusugan Brgy Hall,66.000,24,24,0,True,False
+CDEHab,2,2025-07-20,Maharlika Brgy Hall,38.000,24,24,0,True,False
+CDEHab,2,2025-07-20,New Era Brgy Hall,46.500,24,24,0,True,False
+CDEHab,2,2025-07-20,North Fairview Elementary School,51.000,24,24,0,True,False
+CDEHab,2,2025-07-20,Old Balara Elementary School,48.000,24,24,0,True,False
+CDEHab,2,2025-07-20,Pinyahan Multipurpose Hall,67.500,24,24,0,True,False
+CDEHab,2,2025-07-20,QCDRRMO,160.420,24,24,0,True,True
+CDEHab,2,2025-07-20,Quirino High School,81.000,24,24,0,True,False
+CDEHab,2,2025-07-20,San Agustin Brgy Hall,47.000,24,24,0,True,False
+CDEHab,2,2025-07-20,Sauyo Elementary School,40.000,24,24,0,True,False
+CDEHab,2,2025-07-20,Toro Hills Elementary School,33.000,24,24,0,True,False
+CDEHab,3,2025-07-21,Amoranto Sport Complex,225.500,24,24,0,True,False
+CDEHab,3,2025-07-21,Bagong Silangan Evacuation Center,331.500,24,24,0,True,False
+CDEHab,3,2025-07-21,Balingasa High School,238.500,24,24,0,True,False
+CDEHab,3,2025-07-21,Brgy. Baesa,340.500,24,24,0,True,False
+CDEHab,3,2025-07-21,Brgy. Fairview,351.000,24,24,0,True,False
+CDEHab,3,2025-07-21,Brgy. NS Amoranto,238.000,24,24,0,True,False
+CDEHab,3,2025-07-21,Brgy. Valencia,213.000,24,24,0,True,False
+CDEHab,3,2025-07-21,Dona Juana Elementary School,327.000,24,24,0,True,False
+CDEHab,3,2025-07-21,Ismael Mathay Senior High School,677.000,24,24,0,True,True
+CDEHab,3,2025-07-21,Jose Maria Panganiban Senior High School,365.500,24,24,0,True,False
+CDEHab,3,2025-07-21,Jose P Laurel Senior High School,205.500,24,24,0,True,False
+CDEHab,3,2025-07-21,Kaingin 1 Satellite Office,249.500,24,24,0,True,False
+CDEHab,3,2025-07-21,Kalusugan Brgy Hall,216.000,24,24,0,True,False
+CDEHab,3,2025-07-21,Maharlika Brgy Hall,244.500,24,24,0,True,False
+CDEHab,3,2025-07-21,New Era Brgy Hall,267.000,24,24,0,True,False
+CDEHab,3,2025-07-21,North Fairview Elementary School,351.000,24,24,0,True,False
+CDEHab,3,2025-07-21,Old Balara Elementary School,280.500,24,24,0,True,False
+CDEHab,3,2025-07-21,Pinyahan Multipurpose Hall,220.000,24,24,0,True,False
+CDEHab,3,2025-07-21,QCDRRMO,576.250,24,24,0,True,True
+CDEHab,3,2025-07-21,Quirino High School,201.500,24,24,0,True,False
+CDEHab,3,2025-07-21,San Agustin Brgy Hall,338.500,24,24,0,True,False
+CDEHab,3,2025-07-21,Sauyo Elementary School,368.000,24,24,0,True,False
+CDEHab,3,2025-07-21,Toro Hills Elementary School,281.500,24,24,0,True,False
+MDHab,1,2026-08-07,Amoranto Sport Complex,40.000,24,24,0,True,False
+MDHab,1,2026-08-07,Aurora A. Quezon ES,37.000,24,24,0,True,False
+MDHab,1,2026-08-07,Bagong Lipunan ng Crame Brgy. Hall,36.000,24,24,0,True,False
+MDHab,1,2026-08-07,Bagong Silangan Evacuation Center,20.000,24,24,0,True,False
+MDHab,1,2026-08-07,Bagumbayan ES,28.500,24,24,0,True,False
+MDHab,1,2026-08-07,Balingasa Elementary School,43.400,24,24,0,True,False
+MDHab,1,2026-08-07,Balingasa High School,41.260,24,24,0,True,False
+MDHab,1,2026-08-07,Batasan Hills,23.040,24,24,0,True,False
+MDHab,1,2026-08-07,Brgy Baesa Hall,40.000,24,24,0,True,False
+MDHab,1,2026-08-07,Brgy Fairview (REC),19.500,24,24,0,True,False
+MDHab,1,2026-08-07,Brgy N.S Amoranto Hall,40.500,24,24,0,True,False
+MDHab,1,2026-08-07,Brgy Valencia Hall,40.500,24,24,0,True,False
+MDHab,1,2026-08-07,Brgy.Tatalon Multipurpose Hall,39.500,24,24,0,True,False
+MDHab,1,2026-08-07,Carlos P. Garcia HS,42.500,24,24,0,True,False
+MDHab,1,2026-08-07,Commonwealth High School,13.600,24,24,0,True,False
+MDHab,1,2026-08-07,Dona Imelda,36.500,24,24,0,True,False
+MDHab,1,2026-08-07,Dona Juana Elementary School,1.000,24,24,0,True,False
+MDHab,1,2026-08-07,Emilio Jacinto Sr HS,23.500,24,24,0,True,False
+MDHab,1,2026-08-07,Flora A Ylagan High School,42.400,24,24,0,True,False
+MDHab,1,2026-08-07,Holy Spirit,50.500,24,24,0,True,False
+MDHab,1,2026-08-07,Ismael Mathay Senior High School,33.230,24,24,0,True,False
+MDHab,1,2026-08-07,Jose Maria Panganiban Senior High School,21.000,24,24,0,True,False
+MDHab,1,2026-08-07,Jose P Laurel Senior High School,38.000,24,24,0,True,False
+MDHab,1,2026-08-07,Kaligayahan,20.000,24,24,0,True,False
+MDHab,1,2026-08-07,Kalusugan Brgy Hall,39.500,24,24,0,True,False
+MDHab,1,2026-08-07,Kaunlaran Barangay Hall,33.000,24,24,0,True,False
+MDHab,1,2026-08-07,Laging Handa Hall,40.000,24,24,0,True,False
+MDHab,1,2026-08-07,Lagro High School,20.400,24,24,0,True,False
+MDHab,1,2026-08-07,Libis,33.500,24,24,0,True,False
+MDHab,1,2026-08-07,Lupang Pangako Elementary School,18.310,24,24,0,True,False
+MDHab,1,2026-08-07,Maharlika Brgy Hall,38.500,24,24,0,True,False
+MDHab,1,2026-08-07,Maligaya High School,17.500,24,24,0,True,False
+MDHab,1,2026-08-07,Mariana Barangay Hall,35.500,24,24,0,True,False
+MDHab,1,2026-08-07,Masambong,45.500,24,24,0,True,False
+MDHab,1,2026-08-07,Nagkaisang Nayon,57.500,24,24,0,True,True
+MDHab,1,2026-08-07,New Era Brgy Hall,26.500,24,24,0,True,False
+MDHab,1,2026-08-07,North Fairview Elementary School,20.000,24,24,0,True,False
+MDHab,1,2026-08-07,Old Balara Elementary School,22.000,24,24,0,True,False
+MDHab,1,2026-08-07,Pansol Kaingin 1 Brgy Satellite Office,27.500,24,24,0,True,False
+MDHab,1,2026-08-07,Payatas ES,21.500,24,24,0,True,False
+MDHab,1,2026-08-07,Phil-Am,100.500,24,24,0,True,True
+MDHab,1,2026-08-07,Pinyahan Multipurose Hall,45.520,24,24,0,True,False
+MDHab,1,2026-08-07,Placido Del Mundo Elementary School,23.800,24,24,0,True,False
+MDHab,1,2026-08-07,Project 6 Barangay Hall,35.000,24,24,0,True,False
+MDHab,1,2026-08-07,QCU,24.000,24,24,0,True,False
+MDHab,1,2026-08-07,Quezon City University San Francisco Campus,42.000,24,24,0,True,False
+MDHab,1,2026-08-07,Quirino High School,41.500,24,24,0,True,False
+MDHab,1,2026-08-07,Ramon Magsaysay Brgy Hall,38.500,24,24,0,True,False
+MDHab,1,2026-08-07,Ramon Magsaysay Elementary School,40.800,24,24,0,True,False
+MDHab,1,2026-08-07,Ramon Magsaysay HS,36.500,24,24,0,True,False
+MDHab,1,2026-08-07,Sacred Heart BH,40.500,24,24,0,True,False
+MDHab,1,2026-08-07,San Agustin Brgy Hall,22.500,24,24,0,True,False
+MDHab,1,2026-08-07,San Roque Barangay Hall,30.800,24,24,0,True,False
+MDHab,1,2026-08-07,Sauyo Elementary School,22.500,24,24,0,True,False
+MDHab,1,2026-08-07,Sikatuna Brgy Hall,41.000,24,24,0,True,False
+MDHab,1,2026-08-07,South Triangle,103.000,24,24,0,True,True
+MDHab,1,2026-08-07,Talipapa,29.200,24,24,0,True,False
+MDHab,1,2026-08-07,Tandang Sora,20.500,24,24,0,True,False
+MDHab,1,2026-08-07,Toro Hills Elementary School,40.000,24,24,0,True,False
+MDHab,1,2026-08-07,Ugong Norte,37.530,24,24,0,True,False
+MDHab,1,2026-08-07,UP Village,41.680,24,24,0,True,False
+MDHab,1,2026-08-07,White Plains Barangay Hall,29.500,24,24,0,True,False
+MDHab,2,2026-08-08,Amoranto Sport Complex,110.500,24,24,0,True,False
+MDHab,2,2026-08-08,Aurora A. Quezon ES,105.500,24,24,0,True,False
+MDHab,2,2026-08-08,Bagong Lipunan ng Crame Brgy. Hall,103.000,24,24,0,True,False
+MDHab,2,2026-08-08,Bagong Silangan Evacuation Center,128.500,24,24,0,True,False
+MDHab,2,2026-08-08,Bagumbayan ES,96.500,24,24,0,True,False
+MDHab,2,2026-08-08,Balingasa Elementary School,122.200,24,24,0,True,False
+MDHab,2,2026-08-08,Balingasa High School,127.020,24,24,0,True,False
+MDHab,2,2026-08-08,Batasan Hills,131.180,24,24,0,True,False
+MDHab,2,2026-08-08,Brgy Baesa Hall,122.500,24,24,0,True,False
+MDHab,2,2026-08-08,Brgy Fairview (REC),118.500,24,24,0,True,False
+MDHab,2,2026-08-08,Brgy N.S Amoranto Hall,105.500,24,24,0,True,False
+MDHab,2,2026-08-08,Brgy Valencia Hall,110.500,24,24,0,True,False
+MDHab,2,2026-08-08,Brgy.Tatalon Multipurpose Hall,99.000,24,24,0,True,False
+MDHab,2,2026-08-08,Carlos P. Garcia HS,109.000,24,24,0,True,False
+MDHab,2,2026-08-08,Commonwealth High School,93.000,24,24,0,True,False
+MDHab,2,2026-08-08,Dona Imelda,106.500,24,24,0,True,False
+MDHab,2,2026-08-08,Dona Juana Elementary School,0.500,24,24,0,True,False
+MDHab,2,2026-08-08,Emilio Jacinto Sr HS,126.000,24,24,0,True,False
+MDHab,2,2026-08-08,Flora A Ylagan High School,112.800,24,24,0,True,False
+MDHab,2,2026-08-08,Holy Spirit,291.000,24,24,0,True,True
+MDHab,2,2026-08-08,Ismael Mathay Senior High School,137.410,24,24,0,True,False
+MDHab,2,2026-08-08,Jose Maria Panganiban Senior High School,119.000,24,24,0,True,False
+MDHab,2,2026-08-08,Jose P Laurel Senior High School,115.000,24,24,0,True,False
+MDHab,2,2026-08-08,Kaligayahan,107.000,24,24,0,True,False
+MDHab,2,2026-08-08,Kalusugan Brgy Hall,108.000,24,24,0,True,False
+MDHab,2,2026-08-08,Kaunlaran Barangay Hall,97.800,24,24,0,True,False
+MDHab,2,2026-08-08,Laging Handa Hall,105.000,24,24,0,True,False
+MDHab,2,2026-08-08,Lagro High School,113.400,24,24,0,True,False
+MDHab,2,2026-08-08,Libis,105.500,24,24,0,True,False
+MDHab,2,2026-08-08,Lupang Pangako Elementary School,128.400,24,24,0,True,False
+MDHab,2,2026-08-08,Maharlika Brgy Hall,113.500,24,24,0,True,False
+MDHab,2,2026-08-08,Maligaya High School,102.500,24,24,0,True,False
+MDHab,2,2026-08-08,Mariana Barangay Hall,102.500,24,24,0,True,False
+MDHab,2,2026-08-08,Masambong,121.000,24,24,0,True,False
+MDHab,2,2026-08-08,Nagkaisang Nayon,298.000,24,24,0,True,True
+MDHab,2,2026-08-08,New Era Brgy Hall,127.500,24,24,0,True,False
+MDHab,2,2026-08-08,North Fairview Elementary School,130.500,24,24,0,True,False
+MDHab,2,2026-08-08,Old Balara Elementary School,133.500,24,24,0,True,False
+MDHab,2,2026-08-08,Pansol Kaingin 1 Brgy Satellite Office,134.000,24,24,0,True,False
+MDHab,2,2026-08-08,Payatas ES,134.500,24,24,0,True,False
+MDHab,2,2026-08-08,Phil-Am,294.500,24,24,0,True,True
+MDHab,2,2026-08-08,Pinyahan Multipurose Hall,118.000,24,24,0,True,False
+MDHab,2,2026-08-08,Placido Del Mundo Elementary School,116.400,24,24,0,True,False
+MDHab,2,2026-08-08,Project 6 Barangay Hall,123.400,24,24,0,True,False
+MDHab,2,2026-08-08,QCU,125.000,24,24,0,True,False
+MDHab,2,2026-08-08,Quezon City University San Francisco Campus,129.000,24,24,0,True,False
+MDHab,2,2026-08-08,Quirino High School,108.000,24,24,0,True,False
+MDHab,2,2026-08-08,Ramon Magsaysay Brgy Hall,121.500,24,24,0,True,False
+MDHab,2,2026-08-08,Ramon Magsaysay Elementary School,107.000,24,24,0,True,False
+MDHab,2,2026-08-08,Ramon Magsaysay HS,105.500,24,24,0,True,False
+MDHab,2,2026-08-08,Sacred Heart BH,110.500,24,24,0,True,False
+MDHab,2,2026-08-08,San Agustin Brgy Hall,109.000,24,24,0,True,False
+MDHab,2,2026-08-08,San Roque Barangay Hall,98.800,24,24,0,True,False
+MDHab,2,2026-08-08,Sauyo Elementary School,121.500,24,24,0,True,False
+MDHab,2,2026-08-08,Sikatuna Brgy Hall,108.500,24,24,0,True,False
+MDHab,2,2026-08-08,South Triangle,283.500,24,24,0,True,True
+MDHab,2,2026-08-08,Talipapa,140.930,24,24,0,True,False
+MDHab,2,2026-08-08,Tandang Sora,345.510,24,24,0,True,True
+MDHab,2,2026-08-08,Toro Hills Elementary School,123.000,24,24,0,True,False
+MDHab,2,2026-08-08,Ugong Norte,114.690,24,24,0,True,False
+MDHab,2,2026-08-08,UP Village,123.250,24,24,0,True,False
+MDHab,2,2026-08-08,White Plains Barangay Hall,99.000,24,24,0,True,False
+MDHab,3,2026-08-09,Amoranto Sport Complex,92.500,24,24,0,True,False
+MDHab,3,2026-08-09,Aurora A. Quezon ES,80.000,24,24,0,True,False
+MDHab,3,2026-08-09,Bagong Lipunan ng Crame Brgy. Hall,86.500,24,24,0,True,False
+MDHab,3,2026-08-09,Bagong Silangan Evacuation Center,154.000,24,24,0,True,True
+MDHab,3,2026-08-09,Bagumbayan ES,84.000,24,24,0,True,False
+MDHab,3,2026-08-09,Balingasa Elementary School,95.210,24,24,0,True,False
+MDHab,3,2026-08-09,Balingasa High School,99.740,24,24,0,True,False
+MDHab,3,2026-08-09,Batasan Hills,112.850,24,24,0,True,False
+MDHab,3,2026-08-09,Brgy Baesa Hall,99.500,24,24,0,True,False
+MDHab,3,2026-08-09,Brgy Fairview (REC),116.500,24,24,0,True,False
+MDHab,3,2026-08-09,Brgy N.S Amoranto Hall,78.500,24,24,0,True,False
+MDHab,3,2026-08-09,Brgy Valencia Hall,96.500,24,24,0,True,False
+MDHab,3,2026-08-09,Brgy.Tatalon Multipurpose Hall,89.000,24,24,0,True,False
+MDHab,3,2026-08-09,Carlos P. Garcia HS,98.500,24,24,0,True,False
+MDHab,3,2026-08-09,Commonwealth High School,100.220,24,24,0,True,False
+MDHab,3,2026-08-09,Dona Imelda,90.000,24,24,0,True,False
+MDHab,3,2026-08-09,Dona Juana Elementary School,2.500,24,24,0,True,False
+MDHab,3,2026-08-09,Emilio Jacinto Sr HS,124.270,24,24,0,True,False
+MDHab,3,2026-08-09,Flora A Ylagan High School,98.200,24,24,0,True,False
+MDHab,3,2026-08-09,Holy Spirit,321.000,24,24,0,True,True
+MDHab,3,2026-08-09,Ismael Mathay Senior High School,100.420,24,24,0,True,False
+MDHab,3,2026-08-09,Jose Maria Panganiban Senior High School,87.000,24,24,0,True,False
+MDHab,3,2026-08-09,Jose P Laurel Senior High School,99.500,24,24,0,True,False
+MDHab,3,2026-08-09,Kaligayahan,74.500,24,24,0,True,False
+MDHab,3,2026-08-09,Kalusugan Brgy Hall,90.500,24,24,0,True,False
+MDHab,3,2026-08-09,Kaunlaran Barangay Hall,87.810,24,24,0,True,False
+MDHab,3,2026-08-09,Laging Handa Hall,95.000,24,24,0,True,False
+MDHab,3,2026-08-09,Lagro High School,70.200,24,24,0,True,False
+MDHab,3,2026-08-09,Libis,94.500,24,24,0,True,False
+MDHab,3,2026-08-09,Lupang Pangako Elementary School,130.210,24,24,0,True,False
+MDHab,3,2026-08-09,Maharlika Brgy Hall,83.000,24,24,0,True,False
+MDHab,3,2026-08-09,Maligaya High School,80.000,24,24,0,True,False
+MDHab,3,2026-08-09,Mariana Barangay Hall,93.000,24,24,0,True,False
+MDHab,3,2026-08-09,Masambong,94.500,24,24,0,True,False
+MDHab,3,2026-08-09,Nagkaisang Nayon,178.500,24,24,0,True,True
+MDHab,3,2026-08-09,New Era Brgy Hall,118.500,24,24,0,True,False
+MDHab,3,2026-08-09,North Fairview Elementary School,92.000,24,24,0,True,False
+MDHab,3,2026-08-09,Old Balara Elementary School,136.000,24,24,0,True,True
+MDHab,3,2026-08-09,Pansol Kaingin 1 Brgy Satellite Office,111.500,24,24,0,True,False
+MDHab,3,2026-08-09,Payatas ES,126.500,24,24,0,True,False
+MDHab,3,2026-08-09,Phil-Am,215.500,24,24,0,True,True
+MDHab,3,2026-08-09,Pinyahan Multipurose Hall,103.500,24,24,0,True,False
+MDHab,3,2026-08-09,Placido Del Mundo Elementary School,102.220,24,24,0,True,False
+MDHab,3,2026-08-09,Project 6 Barangay Hall,107.610,24,24,0,True,False
+MDHab,3,2026-08-09,QCU,89.500,24,24,0,True,False
+MDHab,3,2026-08-09,Quezon City University San Francisco Campus,105.000,24,24,0,True,False
+MDHab,3,2026-08-09,Quirino High School,98.000,24,24,0,True,False
+MDHab,3,2026-08-09,Ramon Magsaysay Brgy Hall,99.000,24,24,0,True,False
+MDHab,3,2026-08-09,Ramon Magsaysay Elementary School,76.010,24,24,0,True,False
+MDHab,3,2026-08-09,Ramon Magsaysay HS,100.000,24,24,0,True,False
+MDHab,3,2026-08-09,Sacred Heart BH,98.000,24,24,0,True,False
+MDHab,3,2026-08-09,San Agustin Brgy Hall,67.000,24,24,0,True,False
+MDHab,3,2026-08-09,San Roque Barangay Hall,87.610,24,24,0,True,False
+MDHab,3,2026-08-09,Sauyo Elementary School,114.500,24,24,0,True,False
+MDHab,3,2026-08-09,Sikatuna Brgy Hall,102.000,24,24,0,True,False
+MDHab,3,2026-08-09,South Triangle,226.500,24,24,0,True,True
+MDHab,3,2026-08-09,Talipapa,103.580,24,24,0,True,False
+MDHab,3,2026-08-09,Tandang Sora,267.000,24,24,0,True,True
+MDHab,3,2026-08-09,Toro Hills Elementary School,96.500,24,24,0,True,False
+MDHab,3,2026-08-09,Ugong Norte,112.250,24,24,0,True,False
+MDHab,3,2026-08-09,UP Village,101.000,24,24,0,True,False
+MDHab,3,2026-08-09,White Plains Barangay Hall,94.000,24,24,0,True,False

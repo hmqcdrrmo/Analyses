@@ -1,118 +1,118 @@
-﻿event,station,status,included_in_analysis,valid_observations,expected_observations,positive_observations,minimum_mm,maximum_mm
-CDEHab,Amoranto Sport Complex,active,True,72,72,53,0.000,44.000
-CDEHab,Bagong Silangan Evacuation Center,active,True,72,72,54,0.000,77.500
-CDEHab,Balingasa Elementary School,all_zero,False,72,72,0,0.000,0.000
-CDEHab,Balingasa High School,active,True,72,72,50,0.000,43.500
-CDEHab,Batasan Hills,all_zero,False,72,72,0,0.000,0.000
-CDEHab,Brgy. Baesa,active,True,72,72,52,0.000,85.000
-CDEHab,Brgy. Fairview,active,True,72,72,51,0.000,60.500
-CDEHab,Brgy. Masambong,all_zero,False,72,72,0,0.000,0.000
-CDEHab,Brgy. NS Amoranto,active,True,72,72,53,0.000,46.000
-CDEHab,Brgy. Valencia,active,True,72,72,49,0.000,44.000
-CDEHab,Commonwealth Highschool,all_zero,False,72,72,0,0.000,0.000
-CDEHab,Dona Juana Elementary School,active,True,72,72,49,0.000,80.500
-CDEHab,Doña Imelda,all_zero,False,72,72,0,0.000,0.000
-CDEHab,Emilio Jacinto,all_zero,False,72,72,0,0.000,0.000
-CDEHab,Flora A Ylagan High School,all_zero,False,72,72,0,0.000,0.000
-CDEHab,Holy Spirit,all_zero,False,72,72,0,0.000,0.000
-CDEHab,Ismael Mathay Senior High School,active,True,72,72,50,0.000,161.000
-CDEHab,Jose Maria Panganiban Senior High School,active,True,72,72,49,0.000,82.000
-CDEHab,Jose P Laurel Senior High School,active,True,72,72,49,0.000,54.000
-CDEHab,Kaingin 1 Satellite Office,active,True,72,72,53,0.000,45.000
-CDEHab,Kaligayahan,all_zero,False,72,72,0,0.000,0.000
-CDEHab,Kalusugan Brgy Hall,active,True,72,72,55,0.000,41.000
-CDEHab,Kaunlaran Barangay Hall,all_zero,False,72,72,0,0.000,0.000
-CDEHab,Laging Handa Barangay Hall,all_zero,False,72,72,0,0.000,0.000
-CDEHab,Lagro High School,all_zero,False,72,72,0,0.000,0.000
-CDEHab,Libis,all_zero,False,72,72,0,0.000,0.000
-CDEHab,Lupang Pangako Elementary School,all_zero,False,72,72,0,0.000,0.000
-CDEHab,Maharlika Brgy Hall,active,True,72,72,53,0.000,47.500
-CDEHab,Maligaya High School,all_zero,False,72,72,0,0.000,0.000
-CDEHab,Nagkaisang Nayon,all_zero,False,72,72,0,0.000,0.000
-CDEHab,New Era Brgy Hall,active,True,72,72,49,0.000,44.000
-CDEHab,North Fairview Elementary School,active,True,72,72,49,0.000,70.000
-CDEHab,Old Balara Elementary School,active,True,72,72,52,0.000,52.000
-CDEHab,Payatas Elementary School,all_zero,False,72,72,0,0.000,0.000
-CDEHab,Phil-Am,all_zero,False,72,72,0,0.000,0.000
-CDEHab,Pinyahan Multipurpose Hall,active,True,72,72,53,0.000,44.000
-CDEHab,Placido Delmundo Elementary School,all_zero,False,72,72,0,0.000,0.000
-CDEHab,Project 6 Barangay Hall,all_zero,False,72,72,0,0.000,0.000
-CDEHab,QCU,all_zero,False,72,72,0,0.000,0.000
-CDEHab,QCDRRMO,active,True,72,72,69,0.000,62.190
-CDEHab,Quezon City University San Francisco Campus,all_zero,False,72,72,0,0.000,0.000
-CDEHab,Quirino High School,active,True,72,72,48,0.000,52.000
-CDEHab,Ramon Magsaysay,all_zero,False,72,72,0,0.000,0.000
-CDEHab,Ramon Magsaysay Brgy Hall,all_zero,False,72,72,0,0.000,0.000
-CDEHab,Ramon Magsaysay Elementary School,all_zero,False,72,72,0,0.000,0.000
-CDEHab,San Agustin Brgy Hall,active,True,72,72,50,0.000,66.000
-CDEHab,San Roque Barangay Hall,all_zero,False,72,72,0,0.000,0.000
-CDEHab,Sauyo Elementary School,active,True,72,72,51,0.000,78.500
-CDEHab,Sikatuna Brgy Hall,all_zero,False,72,72,0,0.000,0.000
-CDEHab,South Triangle,all_zero,False,72,72,0,0.000,0.000
-CDEHab,Talipapa,all_zero,False,72,72,0,0.000,0.000
-CDEHab,Tandang Sora,all_zero,False,72,72,0,0.000,0.000
-CDEHab,Toro Hills Elementary School,active,True,72,72,50,0.000,46.500
-CDEHab,UP Village,all_zero,False,72,72,0,0.000,0.000
-CDEHab,Ugong Norte,all_zero,False,72,72,0,0.000,0.000
-MDHab,Amoranto Sport Complex,active,True,72,72,52,0.000,21.000
-MDHab,Aurora A. Quezon ES,active,True,72,72,50,0.000,21.500
-MDHab,Bagong Lipunan ng Crame Brgy. Hall,active,True,72,72,52,0.000,22.500
-MDHab,Bagong Silangan Evacuation Center,active,True,72,72,47,0.000,38.500
-MDHab,Bagumbayan ES,active,True,72,72,51,0.000,20.500
-MDHab,Balingasa Elementary School,active,True,72,72,52,0.000,31.810
-MDHab,Balingasa High School,active,True,72,72,66,0.000,22.430
-MDHab,Batasan Hills,active,True,72,72,69,0.000,23.450
-MDHab,Brgy Baesa Hall,active,True,72,72,52,0.000,35.000
-MDHab,Brgy Fairview (REC),active,True,72,72,50,0.000,26.000
-MDHab,Brgy N.S Amoranto Hall,active,True,72,72,50,0.000,23.000
-MDHab,Brgy Valencia Hall,active,True,72,72,53,0.000,24.500
-MDHab,Brgy.Tatalon Multipurpose Hall,active,True,72,72,49,0.000,24.000
-MDHab,Carlos P. Garcia HS,active,True,72,72,48,0.000,19.000
-MDHab,Commonwealth High School,active,True,72,72,51,0.000,24.210
-MDHab,Dona Imelda,active,True,72,72,55,0.000,23.000
-MDHab,Dona Juana Elementary School,active,True,72,72,8,0.000,0.500
-MDHab,Emilio Jacinto Sr HS,active,True,72,72,51,0.000,45.000
-MDHab,Flora A Ylagan High School,active,True,72,72,55,0.000,18.200
-MDHab,Holy Spirit,active,True,72,72,52,0.000,101.000
-MDHab,Ismael Mathay Senior High School,active,True,72,72,68,0.000,22.430
-MDHab,Jose Maria Panganiban Senior High School,active,True,72,72,48,0.000,19.000
-MDHab,Jose P Laurel Senior High School,active,True,72,72,52,0.000,21.500
-MDHab,Kaligayahan,active,True,72,72,46,0.000,18.500
-MDHab,Kalusugan Brgy Hall,active,True,72,72,51,0.000,21.500
-MDHab,Kaunlaran Barangay Hall,active,True,72,72,57,0.000,22.410
-MDHab,Laging Handa Hall,active,True,72,72,48,0.000,21.000
-MDHab,Lagro High School,active,True,72,72,52,0.000,18.400
-MDHab,Libis,active,True,72,72,54,0.000,21.000
-MDHab,Lupang Pangako Elementary School,active,True,72,72,55,0.000,22.210
-MDHab,Maharlika Brgy Hall,active,True,72,72,49,0.000,22.000
-MDHab,Maligaya High School,active,True,72,72,51,0.000,19.000
-MDHab,Mariana Barangay Hall,active,True,72,72,54,0.000,23.500
-MDHab,Masambong,active,True,72,72,51,0.000,25.000
-MDHab,Nagkaisang Nayon,active,True,72,72,58,0.000,45.000
-MDHab,New Era Brgy Hall,active,True,72,72,48,0.000,43.500
-MDHab,North Fairview Elementary School,active,True,72,72,50,0.000,22.500
-MDHab,Old Balara Elementary School,active,True,72,72,48,0.000,51.500
-MDHab,Pansol Kaingin 1 Brgy Satellite Office,active,True,72,72,50,0.000,36.000
-MDHab,Payatas ES,active,True,72,72,48,0.000,22.000
-MDHab,Phil-Am,active,True,72,72,51,0.000,71.000
-MDHab,Pinyahan Multipurose Hall,active,True,72,72,52,0.000,19.000
-MDHab,Placido Del Mundo Elementary School,active,True,72,72,51,0.000,27.810
-MDHab,Project 6 Barangay Hall,active,True,72,72,53,0.000,37.010
-MDHab,QCU,active,True,72,72,49,0.000,17.500
-MDHab,Quezon City University San Francisco Campus,active,True,72,72,49,0.000,34.500
-MDHab,Quirino High School,active,True,72,72,51,0.000,19.500
-MDHab,Ramon Magsaysay Brgy Hall,active,True,72,72,48,0.000,35.500
-MDHab,Ramon Magsaysay Elementary School,active,True,72,72,54,0.000,21.810
-MDHab,Ramon Magsaysay HS,active,True,72,72,50,0.000,21.500
-MDHab,Sacred Heart BH,active,True,72,72,50,0.000,19.000
-MDHab,San Agustin Brgy Hall,active,True,72,72,46,0.000,18.000
-MDHab,San Roque Barangay Hall,active,True,72,72,55,0.000,21.410
-MDHab,Sauyo Elementary School,active,True,72,72,50,0.000,29.500
-MDHab,Sikatuna Brgy Hall,active,True,72,72,49,0.000,23.500
-MDHab,South Triangle,active,True,72,72,53,0.000,49.500
-MDHab,Talipapa,active,True,72,72,68,0.000,22.430
-MDHab,Tandang Sora,active,True,72,72,30,0.000,48.000
-MDHab,Toro Hills Elementary School,active,True,72,72,50,0.000,34.500
-MDHab,Ugong Norte,active,True,72,72,68,0.000,22.430
-MDHab,UP Village,active,True,72,72,49,0.000,30.500
-MDHab,White Plains Barangay Hall,active,True,72,72,50,0.000,22.500
+﻿event,station,status,status_reason,included_in_analysis,valid_observations,expected_observations,positive_observations,network_wet_hours,zero_when_network_wet_fraction,minimum_mm,maximum_mm
+CDEHab,Amoranto Sport Complex,active,,True,72,72,53,32,0.000,0.000,44.000
+CDEHab,Bagong Silangan Evacuation Center,active,,True,72,72,54,32,0.000,0.000,77.500
+CDEHab,Balingasa Elementary School,all_zero_while_network_wet,Likely inactive sensor,False,72,72,0,32,1.000,0.000,0.000
+CDEHab,Balingasa High School,active,,True,72,72,50,32,0.031,0.000,43.500
+CDEHab,Batasan Hills,all_zero_while_network_wet,Likely inactive sensor,False,72,72,0,32,1.000,0.000,0.000
+CDEHab,Brgy. Baesa,active,,True,72,72,52,32,0.031,0.000,85.000
+CDEHab,Brgy. Fairview,active,,True,72,72,51,32,0.062,0.000,60.500
+CDEHab,Brgy. Masambong,all_zero_while_network_wet,Likely inactive sensor,False,72,72,0,32,1.000,0.000,0.000
+CDEHab,Brgy. NS Amoranto,active,,True,72,72,53,32,0.000,0.000,46.000
+CDEHab,Brgy. Valencia,active,,True,72,72,49,32,0.000,0.000,44.000
+CDEHab,Commonwealth Highschool,all_zero_while_network_wet,Likely inactive sensor,False,72,72,0,32,1.000,0.000,0.000
+CDEHab,Dona Juana Elementary School,active,,True,72,72,49,32,0.031,0.000,80.500
+CDEHab,Doña Imelda,all_zero_while_network_wet,Likely inactive sensor,False,72,72,0,32,1.000,0.000,0.000
+CDEHab,Emilio Jacinto,all_zero_while_network_wet,Likely inactive sensor,False,72,72,0,32,1.000,0.000,0.000
+CDEHab,Flora A Ylagan High School,all_zero_while_network_wet,Likely inactive sensor,False,72,72,0,32,1.000,0.000,0.000
+CDEHab,Holy Spirit,all_zero_while_network_wet,Likely inactive sensor,False,72,72,0,32,1.000,0.000,0.000
+CDEHab,Ismael Mathay Senior High School,active,,True,72,72,50,32,0.031,0.000,161.000
+CDEHab,Jose Maria Panganiban Senior High School,active,,True,72,72,49,32,0.062,0.000,82.000
+CDEHab,Jose P Laurel Senior High School,active,,True,72,72,49,32,0.000,0.000,54.000
+CDEHab,Kaingin 1 Satellite Office,active,,True,72,72,53,32,0.000,0.000,45.000
+CDEHab,Kaligayahan,all_zero_while_network_wet,Likely inactive sensor,False,72,72,0,32,1.000,0.000,0.000
+CDEHab,Kalusugan Brgy Hall,active,,True,72,72,55,32,0.000,0.000,41.000
+CDEHab,Kaunlaran Barangay Hall,all_zero_while_network_wet,Likely inactive sensor,False,72,72,0,32,1.000,0.000,0.000
+CDEHab,Laging Handa Barangay Hall,all_zero_while_network_wet,Likely inactive sensor,False,72,72,0,32,1.000,0.000,0.000
+CDEHab,Lagro High School,all_zero_while_network_wet,Likely inactive sensor,False,72,72,0,32,1.000,0.000,0.000
+CDEHab,Libis,all_zero_while_network_wet,Likely inactive sensor,False,72,72,0,32,1.000,0.000,0.000
+CDEHab,Lupang Pangako Elementary School,all_zero_while_network_wet,Likely inactive sensor,False,72,72,0,32,1.000,0.000,0.000
+CDEHab,Maharlika Brgy Hall,active,,True,72,72,53,32,0.000,0.000,47.500
+CDEHab,Maligaya High School,all_zero_while_network_wet,Likely inactive sensor,False,72,72,0,32,1.000,0.000,0.000
+CDEHab,Nagkaisang Nayon,all_zero_while_network_wet,Likely inactive sensor,False,72,72,0,32,1.000,0.000,0.000
+CDEHab,New Era Brgy Hall,active,,True,72,72,49,32,0.000,0.000,44.000
+CDEHab,North Fairview Elementary School,active,,True,72,72,49,32,0.062,0.000,70.000
+CDEHab,Old Balara Elementary School,active,,True,72,72,52,32,0.000,0.000,52.000
+CDEHab,Payatas Elementary School,all_zero_while_network_wet,Likely inactive sensor,False,72,72,0,32,1.000,0.000,0.000
+CDEHab,Phil-Am,all_zero_while_network_wet,Likely inactive sensor,False,72,72,0,32,1.000,0.000,0.000
+CDEHab,Pinyahan Multipurpose Hall,active,,True,72,72,53,32,0.000,0.000,44.000
+CDEHab,Placido Delmundo Elementary School,all_zero_while_network_wet,Likely inactive sensor,False,72,72,0,32,1.000,0.000,0.000
+CDEHab,Project 6 Barangay Hall,all_zero_while_network_wet,Likely inactive sensor,False,72,72,0,32,1.000,0.000,0.000
+CDEHab,QCU,all_zero_while_network_wet,Likely inactive sensor,False,72,72,0,32,1.000,0.000,0.000
+CDEHab,QCDRRMO,active,,True,72,72,69,32,0.000,0.000,62.190
+CDEHab,Quezon City University San Francisco Campus,all_zero_while_network_wet,Likely inactive sensor,False,72,72,0,32,1.000,0.000,0.000
+CDEHab,Quirino High School,active,,True,72,72,48,32,0.031,0.000,52.000
+CDEHab,Ramon Magsaysay,all_zero_while_network_wet,Likely inactive sensor,False,72,72,0,32,1.000,0.000,0.000
+CDEHab,Ramon Magsaysay Brgy Hall,all_zero_while_network_wet,Likely inactive sensor,False,72,72,0,32,1.000,0.000,0.000
+CDEHab,Ramon Magsaysay Elementary School,all_zero_while_network_wet,Likely inactive sensor,False,72,72,0,32,1.000,0.000,0.000
+CDEHab,San Agustin Brgy Hall,active,,True,72,72,50,32,0.062,0.000,66.000
+CDEHab,San Roque Barangay Hall,all_zero_while_network_wet,Likely inactive sensor,False,72,72,0,32,1.000,0.000,0.000
+CDEHab,Sauyo Elementary School,active,,True,72,72,51,32,0.062,0.000,78.500
+CDEHab,Sikatuna Brgy Hall,all_zero_while_network_wet,Likely inactive sensor,False,72,72,0,32,1.000,0.000,0.000
+CDEHab,South Triangle,all_zero_while_network_wet,Likely inactive sensor,False,72,72,0,32,1.000,0.000,0.000
+CDEHab,Talipapa,all_zero_while_network_wet,Likely inactive sensor,False,72,72,0,32,1.000,0.000,0.000
+CDEHab,Tandang Sora,all_zero_while_network_wet,Likely inactive sensor,False,72,72,0,32,1.000,0.000,0.000
+CDEHab,Toro Hills Elementary School,active,,True,72,72,50,32,0.031,0.000,46.500
+CDEHab,UP Village,all_zero_while_network_wet,Likely inactive sensor,False,72,72,0,32,1.000,0.000,0.000
+CDEHab,Ugong Norte,all_zero_while_network_wet,Likely inactive sensor,False,72,72,0,32,1.000,0.000,0.000
+MDHab,Amoranto Sport Complex,active,,True,72,72,52,27,0.000,0.000,21.000
+MDHab,Aurora A. Quezon ES,active,,True,72,72,50,27,0.000,0.000,21.500
+MDHab,Bagong Lipunan ng Crame Brgy. Hall,active,,True,72,72,52,27,0.000,0.000,22.500
+MDHab,Bagong Silangan Evacuation Center,active,,True,72,72,47,27,0.000,0.000,38.500
+MDHab,Bagumbayan ES,active,,True,72,72,51,27,0.000,0.000,20.500
+MDHab,Balingasa Elementary School,active,,True,72,72,52,27,0.000,0.000,31.810
+MDHab,Balingasa High School,active,,True,72,72,66,27,0.000,0.000,22.430
+MDHab,Batasan Hills,active,,True,72,72,69,27,0.000,0.000,23.450
+MDHab,Brgy Baesa Hall,active,,True,72,72,52,27,0.000,0.000,35.000
+MDHab,Brgy Fairview (REC),active,,True,72,72,50,27,0.000,0.000,26.000
+MDHab,Brgy N.S Amoranto Hall,active,,True,72,72,50,27,0.000,0.000,23.000
+MDHab,Brgy Valencia Hall,active,,True,72,72,53,27,0.000,0.000,24.500
+MDHab,Brgy.Tatalon Multipurpose Hall,active,,True,72,72,49,27,0.000,0.000,24.000
+MDHab,Carlos P. Garcia HS,active,,True,72,72,48,27,0.000,0.000,19.000
+MDHab,Commonwealth High School,active,,True,72,72,51,27,0.000,0.000,24.210
+MDHab,Dona Imelda,active,,True,72,72,55,27,0.000,0.000,23.000
+MDHab,Dona Juana Elementary School,active,,True,72,72,8,27,0.889,0.000,0.500
+MDHab,Emilio Jacinto Sr HS,active,,True,72,72,51,27,0.000,0.000,45.000
+MDHab,Flora A Ylagan High School,active,,True,72,72,55,27,0.000,0.000,18.200
+MDHab,Holy Spirit,active,,True,72,72,52,27,0.000,0.000,101.000
+MDHab,Ismael Mathay Senior High School,active,,True,72,72,68,27,0.000,0.000,22.430
+MDHab,Jose Maria Panganiban Senior High School,active,,True,72,72,48,27,0.000,0.000,19.000
+MDHab,Jose P Laurel Senior High School,active,,True,72,72,52,27,0.000,0.000,21.500
+MDHab,Kaligayahan,active,,True,72,72,46,27,0.037,0.000,18.500
+MDHab,Kalusugan Brgy Hall,active,,True,72,72,51,27,0.000,0.000,21.500
+MDHab,Kaunlaran Barangay Hall,active,,True,72,72,57,27,0.000,0.000,22.410
+MDHab,Laging Handa Hall,active,,True,72,72,48,27,0.000,0.000,21.000
+MDHab,Lagro High School,active,,True,72,72,52,27,0.037,0.000,18.400
+MDHab,Libis,active,,True,72,72,54,27,0.000,0.000,21.000
+MDHab,Lupang Pangako Elementary School,active,,True,72,72,55,27,0.000,0.000,22.210
+MDHab,Maharlika Brgy Hall,active,,True,72,72,49,27,0.000,0.000,22.000
+MDHab,Maligaya High School,active,,True,72,72,51,27,0.037,0.000,19.000
+MDHab,Mariana Barangay Hall,active,,True,72,72,54,27,0.000,0.000,23.500
+MDHab,Masambong,active,,True,72,72,51,27,0.000,0.000,25.000
+MDHab,Nagkaisang Nayon,active,,True,72,72,58,27,0.000,0.000,45.000
+MDHab,New Era Brgy Hall,active,,True,72,72,48,27,0.000,0.000,43.500
+MDHab,North Fairview Elementary School,active,,True,72,72,50,27,0.000,0.000,22.500
+MDHab,Old Balara Elementary School,active,,True,72,72,48,27,0.000,0.000,51.500
+MDHab,Pansol Kaingin 1 Brgy Satellite Office,active,,True,72,72,50,27,0.000,0.000,36.000
+MDHab,Payatas ES,active,,True,72,72,48,27,0.000,0.000,22.000
+MDHab,Phil-Am,active,,True,72,72,51,27,0.000,0.000,71.000
+MDHab,Pinyahan Multipurose Hall,active,,True,72,72,52,27,0.000,0.000,19.000
+MDHab,Placido Del Mundo Elementary School,active,,True,72,72,51,27,0.000,0.000,27.810
+MDHab,Project 6 Barangay Hall,active,,True,72,72,53,27,0.000,0.000,37.010
+MDHab,QCU,active,,True,72,72,49,27,0.000,0.000,17.500
+MDHab,Quezon City University San Francisco Campus,active,,True,72,72,49,27,0.000,0.000,34.500
+MDHab,Quirino High School,active,,True,72,72,51,27,0.000,0.000,19.500
+MDHab,Ramon Magsaysay Brgy Hall,active,,True,72,72,48,27,0.000,0.000,35.500
+MDHab,Ramon Magsaysay Elementary School,active,,True,72,72,54,27,0.000,0.000,21.810
+MDHab,Ramon Magsaysay HS,active,,True,72,72,50,27,0.000,0.000,21.500
+MDHab,Sacred Heart BH,active,,True,72,72,50,27,0.000,0.000,19.000
+MDHab,San Agustin Brgy Hall,active,,True,72,72,46,27,0.037,0.000,18.000
+MDHab,San Roque Barangay Hall,active,,True,72,72,55,27,0.000,0.000,21.410
+MDHab,Sauyo Elementary School,active,,True,72,72,50,27,0.000,0.000,29.500
+MDHab,Sikatuna Brgy Hall,active,,True,72,72,49,27,0.000,0.000,23.500
+MDHab,South Triangle,active,,True,72,72,53,27,0.000,0.000,49.500
+MDHab,Talipapa,active,,True,72,72,68,27,0.000,0.000,22.430
+MDHab,Tandang Sora,active,,True,72,72,30,27,0.333,0.000,48.000
+MDHab,Toro Hills Elementary School,active,,True,72,72,50,27,0.000,0.000,34.500
+MDHab,Ugong Norte,active,,True,72,72,68,27,0.000,0.000,22.430
+MDHab,UP Village,active,,True,72,72,49,27,0.000,0.000,30.500
+MDHab,White Plains Barangay Hall,active,,True,72,72,50,27,0.000,0.000,22.500

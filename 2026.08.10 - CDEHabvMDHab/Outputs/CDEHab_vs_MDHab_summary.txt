@@ -1,45 +1,58 @@
-CDEHab vs MDHab Rainfall Event Comparison
-===========================================
+CDEHab vs MDHab Rainfall Event Comparison — QC Review Version
+================================================================
 
 Method
 ------
-Hourly statistics are means across active reporting sensors. Daily rainfall is calculated by accumulating each qualifying sensor-day first and then averaging those daily totals across sensors. A sensor-day must retain at least 90% of its 24 expected hourly values. Flagged readings are omitted and are not imputed.
-Invalid/physically inadmissible readings are removed automatically. Statistical high outliers are removed only when they are unusually high both relative to the network at that hour and relative to the same sensor's surrounding hours. Zero rainfall remains valid, except that an all-zero sensor over the entire event is treated as inactive by default. Review outlier_audit.csv and sensor_status.csv before using the results operationally or in a publication.
-The two events use different sensor rosters. The results therefore compare network-wide averages, not matched readings from an identical set of stations.
+Only invalid observations, manual rejections, and sensors identified as unusable are omitted. Statistical rainfall extremes are retained and reported as review candidates.
+Spatial verification uses up to 5 nearest gauges, primarily within 3 km. The detected shapefile name field was 'LOCATION'.
+Daily values are accumulated per qualifying sensor first. A sensor-day requires at least 90% completeness and no missing hour during network-wet conditions.
 
 Event statistics
 ----------------
 CDEHab
   Period: 19 Jul 2025 00:00 PHT to 21 Jul 2025 23:00 PHT
-  Sensors: 23 active of 55; excluded — all_zero: 32
-  Clean-data completeness among active sensors: 100.0%
-  Event-total network-average rainfall: 555.04 mm
-  Mean daily network-average rainfall: 185.01 mm
-  Median daily network-average rainfall: 189.59 mm
+  Sensors: 23 active of 55; excluded — all_zero_while_network_wet: 32
+  Spatial matches: 20 of 23 active sensors
+  Hard-rejected hourly values: 0
+  Retained hourly review values: 69, including 30 severe-review value(s)
+  Sensor-day review candidates: 5
+  Event-total daily means: ordinary 555.04 mm; median-based 503.50 mm; 10% trimmed 516.08 mm; review-excluded sensitivity 504.78 mm
   Wettest day: 21 Jul 2025 (309.01 mm)
   Peak network-mean hour: 21 Jul 2025 18:00 PHT (41.46 mm)
   Highest retained station-hour: Ismael Mathay Senior High School, 21 Jul 2025 12:00 PHT (161.00 mm)
-  Omitted cell values: 0, including 0 statistical high outlier(s)
+  Systematic sensor-review candidates:
+    Ismael Mathay Senior High School: persistent_high_bias;persistent_neighbor_disagreement
+    QCDRRMO: persistent_high_bias;persistent_neighbor_disagreement
 
 MDHab
   Period: 07 Aug 2026 00:00 PHT to 09 Aug 2026 23:00 PHT
   Sensors: 62 active of 62; excluded — none
-  Clean-data completeness among active sensors: 100.0%
-  Event-total network-average rainfall: 271.99 mm
-  Mean daily network-average rainfall: 90.66 mm
-  Median daily network-average rainfall: 108.53 mm
+  Spatial matches: 57 of 62 active sensors
+  Hard-rejected hourly values: 0
+  Retained hourly review values: 113, including 76 severe-review value(s)
+  Sensor-day review candidates: 15
+  Event-total daily means: ordinary 271.99 mm; median-based 250.30 mm; 10% trimmed 250.02 mm; review-excluded sensitivity 240.66 mm
   Wettest day: 08 Aug 2026 (128.70 mm)
   Peak network-mean hour: 09 Aug 2026 10:00 PHT (22.43 mm)
   Highest retained station-hour: Holy Spirit, 09 Aug 2026 10:00 PHT (101.00 mm)
-  Omitted cell values: 0, including 0 statistical high outlier(s)
+  Systematic sensor-review candidates:
+    Holy Spirit: persistent_high_bias;persistent_neighbor_disagreement
+    Jose Maria Panganiban Senior High School: possible_time_shift_-1h
+    Nagkaisang Nayon: persistent_high_bias;persistent_neighbor_disagreement
+    Phil-Am: persistent_high_bias;persistent_neighbor_disagreement
+    South Triangle: persistent_high_bias;persistent_neighbor_disagreement
+    Tandang Sora: persistent_high_bias;possible_time_shift_+1h;persistent_neighbor_disagreement
 
-Direct comparison
------------------
-MDHab recorded an event-total network-average rainfall of 271.99 mm, compared with 555.04 mm for CDEHab. The difference was -283.04 mm (51.0% lower).
-Mean daily network-average rainfall differed by -94.35 mm/day; the peak network-mean hour differed by -19.03 mm/h.
+Interpretation
+--------------
+The ordinary mean is the primary continuity statistic. The median, trimmed mean, and review-excluded mean are sensitivity estimates; they do not constitute automatic replacements for the observed data.
+Review hourly_values_for_review.csv, sensor_day_outliers.csv, sensor_behavior_diagnostics.csv, and station_spatial_matches.csv before approving exclusions.
 
-Successive-day daily values
----------------------------
-Day 1 — CDEHab: 189.59 mm; MDHab: 34.76 mm
-Day 2 — CDEHab: 56.43 mm; MDHab: 128.70 mm
-Day 3 — CDEHab: 309.01 mm; MDHab: 108.53 mm
+Daily sensitivity table
+-----------------------
+CDEHab Day 1 (19 Jul 2025): mean 189.59 mm; median 176.00 mm; trimmed 177.42 mm; review-excluded 174.31 mm
+CDEHab Day 2 (20 Jul 2025): mean 56.43 mm; median 47.00 mm; trimmed 51.97 mm; review-excluded 51.70 mm
+CDEHab Day 3 (21 Jul 2025): mean 309.01 mm; median 280.50 mm; trimmed 286.68 mm; review-excluded 278.76 mm
+MDHab Day 1 (07 Aug 2026): mean 34.76 mm; median 36.25 mm; trimmed 33.25 mm; review-excluded 32.10 mm
+MDHab Day 2 (08 Aug 2026): mean 128.70 mm; median 115.70 mm; trimmed 116.81 mm; review-excluded 113.46 mm
+MDHab Day 3 (09 Aug 2026): mean 108.53 mm; median 98.35 mm; trimmed 99.95 mm; review-excluded 95.10 mm

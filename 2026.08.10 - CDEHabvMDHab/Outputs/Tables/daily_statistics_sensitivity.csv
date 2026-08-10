@@ -1,0 +1,7 @@
+﻿event,day_number,date,mean_all_qualifying_sensors_mm,median_all_qualifying_sensors_mm,trimmed_mean_10_percent_mm,mean_excluding_review_sensor_days_mm,review_exclusion_difference_mm,review_exclusion_difference_percent,qualifying_sensors,review_sensor_days,active_sensors,sum_of_hourly_stable_roster_means_mm
+CDEHab,1,2025-07-19,189.593,176.000,177.421,174.310,-15.284,-8.061,23,2,23,189.593
+CDEHab,2,2025-07-20,56.431,47.000,51.974,51.705,-4.727,-8.376,23,1,23,56.431
+CDEHab,3,2025-07-21,309.011,280.500,286.684,278.762,-30.249,-9.789,23,2,23,309.011
+MDHab,1,2026-08-07,34.758,36.250,33.251,32.101,-2.656,-7.643,62,3,62,34.758
+MDHab,2,2026-08-08,128.705,115.700,116.813,113.459,-15.245,-11.845,62,5,62,128.705
+MDHab,3,2026-08-09,108.531,98.350,99.954,95.098,-13.432,-12.377,62,7,62,108.531

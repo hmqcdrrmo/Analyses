@@ -1,0 +1,330 @@
+﻿event,station,neighbor_station,neighbor_rank,distance_km,within_configured_radius
+CDEHab,Amoranto Sport Complex,Kalusugan Brgy Hall,1,0.560,True
+CDEHab,Amoranto Sport Complex,Balingasa High School,2,2.846,True
+CDEHab,Amoranto Sport Complex,Brgy. Valencia,3,2.986,True
+CDEHab,Balingasa High School,Maharlika Brgy Hall,1,1.650,True
+CDEHab,Balingasa High School,Brgy. NS Amoranto,2,2.070,True
+CDEHab,Balingasa High School,Toro Hills Elementary School,3,2.493,True
+CDEHab,Balingasa High School,Amoranto Sport Complex,4,2.846,True
+CDEHab,Balingasa High School,Brgy. Baesa,5,2.893,True
+CDEHab,Brgy. Baesa,Ismael Mathay Senior High School,1,1.115,True
+CDEHab,Brgy. Baesa,Toro Hills Elementary School,2,1.333,True
+CDEHab,Brgy. Baesa,Balingasa High School,3,2.893,True
+CDEHab,Brgy. NS Amoranto,Maharlika Brgy Hall,1,0.483,True
+CDEHab,Brgy. NS Amoranto,Balingasa High School,2,2.070,True
+CDEHab,Brgy. NS Amoranto,Kalusugan Brgy Hall,3,3.129,False
+CDEHab,Brgy. Valencia,Kalusugan Brgy Hall,1,2.678,True
+CDEHab,Brgy. Valencia,Amoranto Sport Complex,2,2.986,True
+CDEHab,Brgy. Valencia,Jose P Laurel Senior High School,3,3.505,False
+CDEHab,Dona Juana Elementary School,Old Balara Elementary School,1,1.952,True
+CDEHab,Dona Juana Elementary School,North Fairview Elementary School,2,2.711,True
+CDEHab,Dona Juana Elementary School,New Era Brgy Hall,3,3.631,False
+CDEHab,Ismael Mathay Senior High School,Brgy. Baesa,1,1.115,True
+CDEHab,Ismael Mathay Senior High School,Toro Hills Elementary School,2,1.208,True
+CDEHab,Ismael Mathay Senior High School,Sauyo Elementary School,3,2.787,True
+CDEHab,Jose Maria Panganiban Senior High School,San Agustin Brgy Hall,1,1.882,True
+CDEHab,Jose Maria Panganiban Senior High School,Sauyo Elementary School,2,2.593,True
+CDEHab,Jose Maria Panganiban Senior High School,North Fairview Elementary School,3,3.014,False
+CDEHab,Jose P Laurel Senior High School,Quirino High School,1,1.052,True
+CDEHab,Jose P Laurel Senior High School,QCDRRMO,2,3.304,False
+CDEHab,Jose P Laurel Senior High School,Brgy. Valencia,3,3.505,False
+CDEHab,Kaingin 1 Satellite Office,Old Balara Elementary School,1,2.025,True
+CDEHab,Kaingin 1 Satellite Office,New Era Brgy Hall,2,2.709,True
+CDEHab,Kaingin 1 Satellite Office,Quirino High School,3,3.139,False
+CDEHab,Kalusugan Brgy Hall,Amoranto Sport Complex,1,0.560,True
+CDEHab,Kalusugan Brgy Hall,Brgy. Valencia,2,2.678,True
+CDEHab,Kalusugan Brgy Hall,Balingasa High School,3,3.120,False
+CDEHab,Maharlika Brgy Hall,Brgy. NS Amoranto,1,0.483,True
+CDEHab,Maharlika Brgy Hall,Balingasa High School,2,1.650,True
+CDEHab,Maharlika Brgy Hall,Kalusugan Brgy Hall,3,3.221,False
+CDEHab,New Era Brgy Hall,Old Balara Elementary School,1,2.013,True
+CDEHab,New Era Brgy Hall,QCDRRMO,2,2.165,True
+CDEHab,New Era Brgy Hall,Kaingin 1 Satellite Office,3,2.709,True
+CDEHab,North Fairview Elementary School,Dona Juana Elementary School,1,2.711,True
+CDEHab,North Fairview Elementary School,Jose Maria Panganiban Senior High School,2,3.014,False
+CDEHab,North Fairview Elementary School,Sauyo Elementary School,3,3.250,False
+CDEHab,Old Balara Elementary School,Dona Juana Elementary School,1,1.952,True
+CDEHab,Old Balara Elementary School,New Era Brgy Hall,2,2.013,True
+CDEHab,Old Balara Elementary School,Kaingin 1 Satellite Office,3,2.025,True
+CDEHab,QCDRRMO,New Era Brgy Hall,1,2.165,True
+CDEHab,QCDRRMO,Quirino High School,2,2.403,True
+CDEHab,QCDRRMO,Jose P Laurel Senior High School,3,3.304,False
+CDEHab,Quirino High School,Jose P Laurel Senior High School,1,1.052,True
+CDEHab,Quirino High School,QCDRRMO,2,2.403,True
+CDEHab,Quirino High School,Kaingin 1 Satellite Office,3,3.139,False
+CDEHab,San Agustin Brgy Hall,Jose Maria Panganiban Senior High School,1,1.882,True
+CDEHab,San Agustin Brgy Hall,North Fairview Elementary School,2,3.697,False
+CDEHab,San Agustin Brgy Hall,Sauyo Elementary School,3,4.441,False
+CDEHab,Sauyo Elementary School,Jose Maria Panganiban Senior High School,1,2.593,True
+CDEHab,Sauyo Elementary School,Ismael Mathay Senior High School,2,2.787,True
+CDEHab,Sauyo Elementary School,New Era Brgy Hall,3,3.222,False
+CDEHab,Toro Hills Elementary School,Ismael Mathay Senior High School,1,1.208,True
+CDEHab,Toro Hills Elementary School,Brgy. Baesa,2,1.333,True
+CDEHab,Toro Hills Elementary School,Balingasa High School,3,2.493,True
+MDHab,Amoranto Sport Complex,Kalusugan Brgy Hall,1,0.560,True
+MDHab,Amoranto Sport Complex,South Triangle,2,0.762,True
+MDHab,Amoranto Sport Complex,Laging Handa Hall,3,0.949,True
+MDHab,Amoranto Sport Complex,Dona Imelda,4,1.791,True
+MDHab,Amoranto Sport Complex,Masambong,5,1.854,True
+MDHab,Aurora A. Quezon ES,Dona Imelda,1,1.062,True
+MDHab,Aurora A. Quezon ES,Ramon Magsaysay Elementary School,2,1.777,True
+MDHab,Aurora A. Quezon ES,Kalusugan Brgy Hall,3,1.885,True
+MDHab,Aurora A. Quezon ES,Brgy N.S Amoranto Hall,4,2.325,True
+MDHab,Aurora A. Quezon ES,Amoranto Sport Complex,5,2.354,True
+MDHab,Bagong Lipunan ng Crame Brgy. Hall,Kaunlaran Barangay Hall,1,0.557,True
+MDHab,Bagong Lipunan ng Crame Brgy. Hall,Brgy Valencia Hall,2,1.342,True
+MDHab,Bagong Lipunan ng Crame Brgy. Hall,San Roque Barangay Hall,3,1.479,True
+MDHab,Bagong Lipunan ng Crame Brgy. Hall,Mariana Barangay Hall,4,1.489,True
+MDHab,Bagong Lipunan ng Crame Brgy. Hall,Ramon Magsaysay HS,5,1.565,True
+MDHab,Bagumbayan ES,Libis,1,1.271,True
+MDHab,Bagumbayan ES,White Plains Barangay Hall,2,1.433,True
+MDHab,Bagumbayan ES,Ugong Norte,3,1.853,True
+MDHab,Bagumbayan ES,Jose P Laurel Senior High School,4,2.304,True
+MDHab,Bagumbayan ES,San Roque Barangay Hall,5,2.532,True
+MDHab,Balingasa Elementary School,Balingasa High School,1,0.584,True
+MDHab,Balingasa Elementary School,Masambong,2,1.577,True
+MDHab,Balingasa Elementary School,Maharlika Brgy Hall,3,1.883,True
+MDHab,Balingasa Elementary School,Ramon Magsaysay Brgy Hall,4,2.321,True
+MDHab,Balingasa Elementary School,Brgy N.S Amoranto Hall,5,2.351,True
+MDHab,Balingasa High School,Balingasa Elementary School,1,0.584,True
+MDHab,Balingasa High School,Masambong,2,0.997,True
+MDHab,Balingasa High School,Maharlika Brgy Hall,3,1.650,True
+MDHab,Balingasa High School,Brgy N.S Amoranto Hall,4,2.070,True
+MDHab,Balingasa High School,Ramon Magsaysay Elementary School,5,2.212,True
+MDHab,Batasan Hills,Dona Juana Elementary School,1,1.552,True
+MDHab,Batasan Hills,Commonwealth High School,2,1.860,True
+MDHab,Batasan Hills,Holy Spirit,3,2.240,True
+MDHab,Batasan Hills,Payatas ES,4,2.652,True
+MDHab,Batasan Hills,Old Balara Elementary School,5,2.900,True
+MDHab,Brgy Baesa Hall,Ismael Mathay Senior High School,1,1.115,True
+MDHab,Brgy Baesa Hall,Toro Hills Elementary School,2,1.333,True
+MDHab,Brgy Baesa Hall,Ramon Magsaysay Brgy Hall,3,1.904,True
+MDHab,Brgy Baesa Hall,Placido Del Mundo Elementary School,4,2.142,True
+MDHab,Brgy Baesa Hall,Quezon City University San Francisco Campus,5,2.370,True
+MDHab,Brgy N.S Amoranto Hall,Maharlika Brgy Hall,1,0.483,True
+MDHab,Brgy N.S Amoranto Hall,Ramon Magsaysay Elementary School,2,0.559,True
+MDHab,Brgy N.S Amoranto Hall,Masambong,3,2.064,True
+MDHab,Brgy N.S Amoranto Hall,Balingasa High School,4,2.070,True
+MDHab,Brgy N.S Amoranto Hall,Aurora A. Quezon ES,5,2.325,True
+MDHab,Brgy Valencia Hall,Mariana Barangay Hall,1,1.003,True
+MDHab,Brgy Valencia Hall,Kaunlaran Barangay Hall,2,1.189,True
+MDHab,Brgy Valencia Hall,Bagong Lipunan ng Crame Brgy. Hall,3,1.342,True
+MDHab,Brgy Valencia Hall,Ramon Magsaysay HS,4,2.282,True
+MDHab,Brgy Valencia Hall,Dona Imelda,5,2.472,True
+MDHab,Brgy.Tatalon Multipurpose Hall,Ismael Mathay Senior High School,1,1.115,True
+MDHab,Brgy.Tatalon Multipurpose Hall,Toro Hills Elementary School,2,1.333,True
+MDHab,Brgy.Tatalon Multipurpose Hall,Ramon Magsaysay Brgy Hall,3,1.904,True
+MDHab,Brgy.Tatalon Multipurpose Hall,Placido Del Mundo Elementary School,4,2.142,True
+MDHab,Brgy.Tatalon Multipurpose Hall,Quezon City University San Francisco Campus,5,2.370,True
+MDHab,Carlos P. Garcia HS,Ramon Magsaysay HS,1,0.841,True
+MDHab,Carlos P. Garcia HS,Sikatuna Brgy Hall,2,0.873,True
+MDHab,Carlos P. Garcia HS,Flora A Ylagan High School,3,1.045,True
+MDHab,Carlos P. Garcia HS,Quirino High School,4,1.416,True
+MDHab,Carlos P. Garcia HS,San Roque Barangay Hall,5,1.554,True
+MDHab,Commonwealth High School,Dona Juana Elementary School,1,1.016,True
+MDHab,Commonwealth High School,Holy Spirit,2,1.729,True
+MDHab,Commonwealth High School,Batasan Hills,3,1.860,True
+MDHab,Commonwealth High School,North Fairview Elementary School,4,1.963,True
+MDHab,Commonwealth High School,Payatas ES,5,2.510,True
+MDHab,Dona Imelda,Aurora A. Quezon ES,1,1.062,True
+MDHab,Dona Imelda,Kalusugan Brgy Hall,2,1.233,True
+MDHab,Dona Imelda,Amoranto Sport Complex,3,1.791,True
+MDHab,Dona Imelda,Mariana Barangay Hall,4,2.078,True
+MDHab,Dona Imelda,Laging Handa Hall,5,2.456,True
+MDHab,Dona Juana Elementary School,Holy Spirit,1,0.856,True
+MDHab,Dona Juana Elementary School,Commonwealth High School,2,1.016,True
+MDHab,Dona Juana Elementary School,Batasan Hills,3,1.552,True
+MDHab,Dona Juana Elementary School,Old Balara Elementary School,4,1.952,True
+MDHab,Dona Juana Elementary School,North Fairview Elementary School,5,2.711,True
+MDHab,Flora A Ylagan High School,Ramon Magsaysay HS,1,0.979,True
+MDHab,Flora A Ylagan High School,Carlos P. Garcia HS,2,1.045,True
+MDHab,Flora A Ylagan High School,Sikatuna Brgy Hall,3,1.231,True
+MDHab,Flora A Ylagan High School,Laging Handa Hall,4,1.666,True
+MDHab,Flora A Ylagan High School,UP Village,5,1.745,True
+MDHab,Holy Spirit,Dona Juana Elementary School,1,0.856,True
+MDHab,Holy Spirit,Old Balara Elementary School,2,1.217,True
+MDHab,Holy Spirit,Commonwealth High School,3,1.729,True
+MDHab,Holy Spirit,Batasan Hills,4,2.240,True
+MDHab,Holy Spirit,New Era Brgy Hall,5,2.775,True
+MDHab,Ismael Mathay Senior High School,Brgy.Tatalon Multipurpose Hall,1,1.115,True
+MDHab,Ismael Mathay Senior High School,Brgy Baesa Hall,2,1.115,True
+MDHab,Ismael Mathay Senior High School,Toro Hills Elementary School,3,1.208,True
+MDHab,Ismael Mathay Senior High School,Tandang Sora,4,1.336,True
+MDHab,Ismael Mathay Senior High School,Placido Del Mundo Elementary School,5,1.357,True
+MDHab,Jose Maria Panganiban Senior High School,Nagkaisang Nayon,1,1.293,True
+MDHab,Jose Maria Panganiban Senior High School,San Agustin Brgy Hall,2,1.882,True
+MDHab,Jose Maria Panganiban Senior High School,Sauyo Elementary School,3,2.593,True
+MDHab,Jose Maria Panganiban Senior High School,Talipapa,4,2.644,True
+MDHab,Jose P Laurel Senior High School,San Roque Barangay Hall,1,0.698,True
+MDHab,Jose P Laurel Senior High School,Quirino High School,2,1.052,True
+MDHab,Jose P Laurel Senior High School,Libis,3,1.059,True
+MDHab,Jose P Laurel Senior High School,Carlos P. Garcia HS,4,1.740,True
+MDHab,Jose P Laurel Senior High School,Sikatuna Brgy Hall,5,1.852,True
+MDHab,Kaligayahan,Maligaya High School,1,1.590,True
+MDHab,Kaligayahan,San Agustin Brgy Hall,2,1.624,True
+MDHab,Kaligayahan,Lagro High School,3,2.100,True
+MDHab,Kalusugan Brgy Hall,Amoranto Sport Complex,1,0.560,True
+MDHab,Kalusugan Brgy Hall,Dona Imelda,2,1.233,True
+MDHab,Kalusugan Brgy Hall,South Triangle,3,1.322,True
+MDHab,Kalusugan Brgy Hall,Laging Handa Hall,4,1.324,True
+MDHab,Kalusugan Brgy Hall,Mariana Barangay Hall,5,1.856,True
+MDHab,Kaunlaran Barangay Hall,Bagong Lipunan ng Crame Brgy. Hall,1,0.557,True
+MDHab,Kaunlaran Barangay Hall,Mariana Barangay Hall,2,0.990,True
+MDHab,Kaunlaran Barangay Hall,Brgy Valencia Hall,3,1.189,True
+MDHab,Kaunlaran Barangay Hall,Ramon Magsaysay HS,4,1.201,True
+MDHab,Kaunlaran Barangay Hall,Carlos P. Garcia HS,5,1.677,True
+MDHab,Laging Handa Hall,South Triangle,1,0.867,True
+MDHab,Laging Handa Hall,Amoranto Sport Complex,2,0.949,True
+MDHab,Laging Handa Hall,Kalusugan Brgy Hall,3,1.324,True
+MDHab,Laging Handa Hall,Ramon Magsaysay HS,4,1.628,True
+MDHab,Laging Handa Hall,Flora A Ylagan High School,5,1.666,True
+MDHab,Lagro High School,Maligaya High School,1,1.452,True
+MDHab,Lagro High School,Kaligayahan,2,2.100,True
+MDHab,Lagro High School,North Fairview Elementary School,3,2.153,True
+MDHab,Libis,Jose P Laurel Senior High School,1,1.059,True
+MDHab,Libis,Bagumbayan ES,2,1.271,True
+MDHab,Libis,San Roque Barangay Hall,3,1.458,True
+MDHab,Libis,White Plains Barangay Hall,4,1.547,True
+MDHab,Libis,Quirino High School,5,1.929,True
+MDHab,Lupang Pangako Elementary School,Payatas ES,1,1.124,True
+MDHab,Lupang Pangako Elementary School,Batasan Hills,2,3.390,False
+MDHab,Lupang Pangako Elementary School,Commonwealth High School,3,3.605,False
+MDHab,Maharlika Brgy Hall,Brgy N.S Amoranto Hall,1,0.483,True
+MDHab,Maharlika Brgy Hall,Ramon Magsaysay Elementary School,2,0.919,True
+MDHab,Maharlika Brgy Hall,Balingasa High School,3,1.650,True
+MDHab,Maharlika Brgy Hall,Masambong,4,1.823,True
+MDHab,Maharlika Brgy Hall,Balingasa Elementary School,5,1.883,True
+MDHab,Maligaya High School,Lagro High School,1,1.452,True
+MDHab,Maligaya High School,Kaligayahan,2,1.590,True
+MDHab,Maligaya High School,San Agustin Brgy Hall,3,3.121,False
+MDHab,Mariana Barangay Hall,Kaunlaran Barangay Hall,1,0.990,True
+MDHab,Mariana Barangay Hall,Brgy Valencia Hall,2,1.003,True
+MDHab,Mariana Barangay Hall,Bagong Lipunan ng Crame Brgy. Hall,3,1.489,True
+MDHab,Mariana Barangay Hall,Ramon Magsaysay HS,4,1.577,True
+MDHab,Mariana Barangay Hall,Laging Handa Hall,5,1.781,True
+MDHab,Masambong,Balingasa High School,1,0.997,True
+MDHab,Masambong,Balingasa Elementary School,2,1.577,True
+MDHab,Masambong,South Triangle,3,1.717,True
+MDHab,Masambong,Maharlika Brgy Hall,4,1.823,True
+MDHab,Masambong,Amoranto Sport Complex,5,1.854,True
+MDHab,Nagkaisang Nayon,Jose Maria Panganiban Senior High School,1,1.293,True
+MDHab,Nagkaisang Nayon,San Agustin Brgy Hall,2,1.585,True
+MDHab,Nagkaisang Nayon,Talipapa,3,3.170,False
+MDHab,New Era Brgy Hall,UP Village,1,1.877,True
+MDHab,New Era Brgy Hall,Old Balara Elementary School,2,2.013,True
+MDHab,New Era Brgy Hall,Project 6 Barangay Hall,3,2.023,True
+MDHab,New Era Brgy Hall,Pansol Kaingin 1 Brgy Satellite Office,4,2.709,True
+MDHab,New Era Brgy Hall,Holy Spirit,5,2.775,True
+MDHab,North Fairview Elementary School,Commonwealth High School,1,1.963,True
+MDHab,North Fairview Elementary School,Lagro High School,2,2.153,True
+MDHab,North Fairview Elementary School,Dona Juana Elementary School,3,2.711,True
+MDHab,North Fairview Elementary School,Holy Spirit,4,2.982,True
+MDHab,Old Balara Elementary School,Holy Spirit,1,1.217,True
+MDHab,Old Balara Elementary School,Dona Juana Elementary School,2,1.952,True
+MDHab,Old Balara Elementary School,New Era Brgy Hall,3,2.013,True
+MDHab,Old Balara Elementary School,Pansol Kaingin 1 Brgy Satellite Office,4,2.025,True
+MDHab,Old Balara Elementary School,Batasan Hills,5,2.900,True
+MDHab,Pansol Kaingin 1 Brgy Satellite Office,Old Balara Elementary School,1,2.025,True
+MDHab,Pansol Kaingin 1 Brgy Satellite Office,New Era Brgy Hall,2,2.709,True
+MDHab,Pansol Kaingin 1 Brgy Satellite Office,UP Village,3,2.764,True
+MDHab,Payatas ES,Lupang Pangako Elementary School,1,1.124,True
+MDHab,Payatas ES,Commonwealth High School,2,2.510,True
+MDHab,Payatas ES,Batasan Hills,3,2.652,True
+MDHab,Phil-Am,Quezon City University San Francisco Campus,1,1.120,True
+MDHab,Phil-Am,QCU,2,1.120,True
+MDHab,Phil-Am,South Triangle,3,1.398,True
+MDHab,Phil-Am,Ramon Magsaysay Brgy Hall,4,1.556,True
+MDHab,Phil-Am,Laging Handa Hall,5,1.809,True
+MDHab,Placido Del Mundo Elementary School,Talipapa,1,0.477,True
+MDHab,Placido Del Mundo Elementary School,Tandang Sora,2,0.935,True
+MDHab,Placido Del Mundo Elementary School,Ismael Mathay Senior High School,3,1.357,True
+MDHab,Placido Del Mundo Elementary School,Sauyo Elementary School,4,1.935,True
+MDHab,Placido Del Mundo Elementary School,Brgy Baesa Hall,5,2.142,True
+MDHab,Project 6 Barangay Hall,Quezon City University San Francisco Campus,1,1.621,True
+MDHab,Project 6 Barangay Hall,QCU,2,1.621,True
+MDHab,Project 6 Barangay Hall,Phil-Am,3,1.862,True
+MDHab,Project 6 Barangay Hall,New Era Brgy Hall,4,2.023,True
+MDHab,Project 6 Barangay Hall,Ramon Magsaysay Brgy Hall,5,2.089,True
+MDHab,QCU,Ramon Magsaysay Brgy Hall,1,0.554,True
+MDHab,QCU,Toro Hills Elementary School,2,1.037,True
+MDHab,QCU,Phil-Am,3,1.120,True
+MDHab,QCU,Project 6 Barangay Hall,4,1.621,True
+MDHab,QCU,Ismael Mathay Senior High School,5,2.035,True
+MDHab,Quezon City University San Francisco Campus,Ramon Magsaysay Brgy Hall,1,0.554,True
+MDHab,Quezon City University San Francisco Campus,Toro Hills Elementary School,2,1.037,True
+MDHab,Quezon City University San Francisco Campus,Phil-Am,3,1.120,True
+MDHab,Quezon City University San Francisco Campus,Project 6 Barangay Hall,4,1.621,True
+MDHab,Quezon City University San Francisco Campus,Ismael Mathay Senior High School,5,2.035,True
+MDHab,Quirino High School,Sikatuna Brgy Hall,1,1.025,True
+MDHab,Quirino High School,Jose P Laurel Senior High School,2,1.052,True
+MDHab,Quirino High School,Carlos P. Garcia HS,3,1.416,True
+MDHab,Quirino High School,San Roque Barangay Hall,4,1.507,True
+MDHab,Quirino High School,Libis,5,1.929,True
+MDHab,Ramon Magsaysay Brgy Hall,QCU,1,0.554,True
+MDHab,Ramon Magsaysay Brgy Hall,Quezon City University San Francisco Campus,2,0.554,True
+MDHab,Ramon Magsaysay Brgy Hall,Toro Hills Elementary School,3,0.622,True
+MDHab,Ramon Magsaysay Brgy Hall,Phil-Am,4,1.556,True
+MDHab,Ramon Magsaysay Brgy Hall,Ismael Mathay Senior High School,5,1.795,True
+MDHab,Ramon Magsaysay Elementary School,Brgy N.S Amoranto Hall,1,0.559,True
+MDHab,Ramon Magsaysay Elementary School,Maharlika Brgy Hall,2,0.919,True
+MDHab,Ramon Magsaysay Elementary School,Aurora A. Quezon ES,3,1.777,True
+MDHab,Ramon Magsaysay Elementary School,Masambong,4,1.939,True
+MDHab,Ramon Magsaysay Elementary School,Balingasa High School,5,2.212,True
+MDHab,Ramon Magsaysay HS,Carlos P. Garcia HS,1,0.841,True
+MDHab,Ramon Magsaysay HS,Flora A Ylagan High School,2,0.979,True
+MDHab,Ramon Magsaysay HS,Kaunlaran Barangay Hall,3,1.201,True
+MDHab,Ramon Magsaysay HS,Bagong Lipunan ng Crame Brgy. Hall,4,1.565,True
+MDHab,Ramon Magsaysay HS,Mariana Barangay Hall,5,1.577,True
+MDHab,San Agustin Brgy Hall,Nagkaisang Nayon,1,1.585,True
+MDHab,San Agustin Brgy Hall,Kaligayahan,2,1.624,True
+MDHab,San Agustin Brgy Hall,Jose Maria Panganiban Senior High School,3,1.882,True
+MDHab,San Roque Barangay Hall,Jose P Laurel Senior High School,1,0.698,True
+MDHab,San Roque Barangay Hall,Libis,2,1.458,True
+MDHab,San Roque Barangay Hall,Bagong Lipunan ng Crame Brgy. Hall,3,1.479,True
+MDHab,San Roque Barangay Hall,Quirino High School,4,1.507,True
+MDHab,San Roque Barangay Hall,Carlos P. Garcia HS,5,1.554,True
+MDHab,Sauyo Elementary School,Tandang Sora,1,1.452,True
+MDHab,Sauyo Elementary School,Talipapa,2,1.636,True
+MDHab,Sauyo Elementary School,Placido Del Mundo Elementary School,3,1.935,True
+MDHab,Sauyo Elementary School,Jose Maria Panganiban Senior High School,4,2.593,True
+MDHab,Sauyo Elementary School,Ismael Mathay Senior High School,5,2.787,True
+MDHab,Sikatuna Brgy Hall,Carlos P. Garcia HS,1,0.873,True
+MDHab,Sikatuna Brgy Hall,Quirino High School,2,1.025,True
+MDHab,Sikatuna Brgy Hall,Flora A Ylagan High School,3,1.231,True
+MDHab,Sikatuna Brgy Hall,UP Village,4,1.349,True
+MDHab,Sikatuna Brgy Hall,Ramon Magsaysay HS,5,1.614,True
+MDHab,South Triangle,Amoranto Sport Complex,1,0.762,True
+MDHab,South Triangle,Laging Handa Hall,2,0.867,True
+MDHab,South Triangle,Kalusugan Brgy Hall,3,1.322,True
+MDHab,South Triangle,Phil-Am,4,1.398,True
+MDHab,South Triangle,Masambong,5,1.717,True
+MDHab,Talipapa,Placido Del Mundo Elementary School,1,0.477,True
+MDHab,Talipapa,Tandang Sora,2,1.061,True
+MDHab,Talipapa,Sauyo Elementary School,3,1.636,True
+MDHab,Talipapa,Ismael Mathay Senior High School,4,1.813,True
+MDHab,Talipapa,Brgy Baesa Hall,5,2.617,True
+MDHab,Tandang Sora,Placido Del Mundo Elementary School,1,0.935,True
+MDHab,Tandang Sora,Talipapa,2,1.061,True
+MDHab,Tandang Sora,Ismael Mathay Senior High School,3,1.336,True
+MDHab,Tandang Sora,Sauyo Elementary School,4,1.452,True
+MDHab,Tandang Sora,Toro Hills Elementary School,5,2.304,True
+MDHab,Toro Hills Elementary School,Ramon Magsaysay Brgy Hall,1,0.622,True
+MDHab,Toro Hills Elementary School,QCU,2,1.037,True
+MDHab,Toro Hills Elementary School,Quezon City University San Francisco Campus,3,1.037,True
+MDHab,Toro Hills Elementary School,Ismael Mathay Senior High School,4,1.208,True
+MDHab,Toro Hills Elementary School,Brgy Baesa Hall,5,1.333,True
+MDHab,Ugong Norte,White Plains Barangay Hall,1,0.677,True
+MDHab,Ugong Norte,Bagumbayan ES,2,1.853,True
+MDHab,Ugong Norte,Libis,3,2.216,True
+MDHab,Ugong Norte,San Roque Barangay Hall,4,2.417,True
+MDHab,Ugong Norte,Jose P Laurel Senior High School,5,2.707,True
+MDHab,UP Village,Sikatuna Brgy Hall,1,1.349,True
+MDHab,UP Village,Flora A Ylagan High School,2,1.745,True
+MDHab,UP Village,New Era Brgy Hall,3,1.877,True
+MDHab,UP Village,Quirino High School,4,2.086,True
+MDHab,UP Village,Carlos P. Garcia HS,5,2.104,True
+MDHab,White Plains Barangay Hall,Ugong Norte,1,0.677,True
+MDHab,White Plains Barangay Hall,Bagumbayan ES,2,1.433,True
+MDHab,White Plains Barangay Hall,Libis,3,1.547,True
+MDHab,White Plains Barangay Hall,San Roque Barangay Hall,4,1.851,True
+MDHab,White Plains Barangay Hall,Jose P Laurel Senior High School,5,2.057,True

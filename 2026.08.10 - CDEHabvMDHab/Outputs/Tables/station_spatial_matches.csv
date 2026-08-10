@@ -1,0 +1,86 @@
+﻿event,station,alias_used,matched,matched_gauge_name,match_score,match_method,x_m,y_m
+CDEHab,Amoranto Sport Complex,Amoranto Sport Complex,True,NS Amoranto Sports Complex,0.917,fuzzy,287178.993,1618384.401
+CDEHab,Bagong Silangan Evacuation Center,Bagong Silangan Evacuation Center,False,,0.692,unmatched,,
+CDEHab,Balingasa High School,Balingasa High School,True,Balingasa High School,1.000,exact,285102.455,1620330.193
+CDEHab,Brgy. Baesa,Brgy Baesa Hall,True,Barangay Baesa Multi-Purpose Hall,0.950,fuzzy,285872.393,1623119.173
+CDEHab,Brgy. Fairview,Brgy Fairview (REC),False,,0.706,unmatched,,
+CDEHab,Brgy. NS Amoranto,Brgy N.S Amoranto Hall,True,N.S Amoranto Barangay Hall,1.000,fuzzy,283961.901,1618603.035
+CDEHab,Brgy. Valencia,Brgy Valencia Hall,True,Valencia Barangay Hall,1.000,fuzzy,288818.430,1615888.338
+CDEHab,Dona Juana Elementary School,Dona Juana Elementary School,True,Doña Juana Elementary School,1.000,exact,293449.670,1624879.355
+CDEHab,Ismael Mathay Senior High School,Ismael Mathay Senior High School,True,Ismael Mathay Senior High School,1.000,exact,286962.518,1623355.595
+CDEHab,Jose Maria Panganiban Senior High School,Jose Maria Panganiban Senior High School,True,Jose Maria Panganiban Senior High School,1.000,exact,288776.120,1627426.617
+CDEHab,Jose P Laurel Senior High School,Jose P Laurel Senior High School,True,Jose P. Laurel Senior High School,1.000,exact,291975.326,1617410.274
+CDEHab,Kaingin 1 Satellite Office,Pansol Kaingin 1 Brgy Satellite Office,True,Kaingin 1 Satellite Office,0.950,fuzzy,293521.752,1621108.528
+CDEHab,Kalusugan Brgy Hall,Kalusugan Brgy Hall,True,Kalusugan Barangay Hall,1.000,exact,287000.379,1617854.036
+CDEHab,Maharlika Brgy Hall,Maharlika Brgy Hall,True,Maharlika Barangay Hall,1.000,exact,284022.989,1619082.400
+CDEHab,New Era Brgy Hall,New Era Brgy Hall,True,New Era Barangay Hall,1.000,exact,291030.140,1622171.794
+CDEHab,North Fairview Elementary School,North Fairview Elementary School,True,North Fairview Elementary School,1.000,exact,291760.033,1626999.909
+CDEHab,Old Balara Elementary School,Old Balara Elementary School,True,Old Balara Elementary School,1.000,exact,292855.572,1623020.431
+CDEHab,Pinyahan Multipurpose Hall,Pinyahan Multipurose Hall,False,,0.764,unmatched,,
+CDEHab,QCDRRMO,QCDRRMO,True,QCDRRMO Building,0.950,fuzzy,290176.522,1620182.276
+CDEHab,Quirino High School,Quirino High School,True,Quirino High School,1.000,exact,291846.519,1618454.108
+CDEHab,San Agustin Brgy Hall,San Agustin Brgy Hall,True,San Agustin Barangay Hall,1.000,exact,288871.383,1629306.412
+CDEHab,Sauyo Elementary School,Sauyo Elementary School,True,Sauyo Elementary School,1.000,exact,289292.118,1624885.199
+CDEHab,Toro Hills Elementary School,Toro Hills Elementary School,True,Toro Hills Elementary School,1.000,exact,286796.765,1622158.533
+MDHab,Amoranto Sport Complex,Amoranto Sport Complex,True,NS Amoranto Sports Complex,0.917,fuzzy,287178.993,1618384.401
+MDHab,Aurora A. Quezon ES,Aurora A. Quezon ES,True,Aurora A Quezon Elementary School,1.000,exact,285434.588,1616803.782
+MDHab,Bagong Lipunan ng Crame Brgy. Hall,Bagong Lipunan ng Crame Brgy. Hall,True,Bagong Lipunan ng Crame Barangay Hall,1.000,exact,290013.011,1616500.723
+MDHab,Bagong Silangan Evacuation Center,Bagong Silangan Evacuation Center,False,,0.692,unmatched,,
+MDHab,Bagumbayan ES,Bagumbayan ES,True,Bagumbayan Elementary School,1.000,exact,293619.984,1615796.826
+MDHab,Balingasa Elementary School,Balingasa Elementary School,True,Balingasa Elementary School,1.000,exact,284770.472,1620810.212
+MDHab,Balingasa High School,Balingasa High School,True,Balingasa High School,1.000,exact,285102.455,1620330.193
+MDHab,Batasan Hills,Batasan Hills,True,Batasan Hills,1.000,exact,294998.798,1624974.258
+MDHab,Brgy Baesa Hall,Brgy Baesa Hall,True,Barangay Baesa Multi-Purpose Hall,0.950,fuzzy,285872.393,1623119.173
+MDHab,Brgy Fairview (REC),Brgy Fairview (REC),False,,0.706,unmatched,,
+MDHab,Brgy N.S Amoranto Hall,Brgy N.S Amoranto Hall,True,N.S Amoranto Barangay Hall,1.000,fuzzy,283961.901,1618603.035
+MDHab,Brgy Valencia Hall,Brgy Valencia Hall,True,Valencia Barangay Hall,1.000,fuzzy,288818.430,1615888.338
+MDHab,Brgy.Tatalon Multipurpose Hall,Brgy.Tatalon Multipurpose Hall,True,Barangay Baesa Multi-Purpose Hall,0.847,fuzzy,285872.393,1623119.173
+MDHab,Carlos P. Garcia HS,Carlos P. Garcia HS,True,Carlos P. Garcia Highschool,1.000,exact,290446.831,1618242.262
+MDHab,Commonwealth High School,Commonwealth High School,True,Commonwealth High School,1.000,exact,293381.012,1625892.969
+MDHab,Dona Imelda,Dona Imelda,True,Dona Imelda Barangay Hall,0.950,fuzzy,286493.981,1616729.471
+MDHab,Dona Juana Elementary School,Dona Juana Elementary School,True,Doña Juana Elementary School,1.000,exact,293449.670,1624879.355
+MDHab,Emilio Jacinto Sr HS,Emilio Jacinto Sr HS,False,,0.783,unmatched,,
+MDHab,Flora A Ylagan High School,Flora A Ylagan High School,True,Flora A. Ylagan High School,1.000,exact,289721.567,1618994.981
+MDHab,Holy Spirit,Holy Spirit,True,Holy Spirit,1.000,exact,292883.947,1624237.332
+MDHab,Ismael Mathay Senior High School,Ismael Mathay Senior High School,True,Ismael Mathay Senior High School,1.000,exact,286962.518,1623355.595
+MDHab,Jose Maria Panganiban Senior High School,Jose Maria Panganiban Senior High School,True,Jose Maria Panganiban Senior High School,1.000,exact,288776.120,1627426.617
+MDHab,Jose P Laurel Senior High School,Jose P Laurel Senior High School,True,Jose P. Laurel Senior High School,1.000,exact,291975.326,1617410.274
+MDHab,Kaligayahan,Kaligayahan,True,Kaligayahan Barangay Hall,0.950,fuzzy,290152.367,1630305.441
+MDHab,Kalusugan Brgy Hall,Kalusugan Brgy Hall,True,Kalusugan Barangay Hall,1.000,exact,287000.379,1617854.036
+MDHab,Kaunlaran Barangay Hall,Kaunlaran Barangay Hall,True,Kaunlaran Barangay Hall,1.000,exact,289556.617,1616820.674
+MDHab,Laging Handa Hall,Laging Handa Hall,True,Laging Handa Barangay Hall,0.950,fuzzy,288107.826,1618580.276
+MDHab,Lagro High School,Lagro High School,True,Lagro High School,1.000,exact,291905.019,1629147.729
+MDHab,Libis,Libis,True,Libis,1.000,exact,292842.644,1616802.100
+MDHab,Lupang Pangako Elementary School,Lupang Pangako Elementary School,True,Lupang Pangako Elementary School,1.000,exact,296195.453,1628146.293
+MDHab,Maharlika Brgy Hall,Maharlika Brgy Hall,True,Maharlika Barangay Hall,1.000,exact,284022.989,1619082.400
+MDHab,Maligaya High School,Maligaya High School,True,Maligaya High School,1.000,exact,291717.298,1630587.480
+MDHab,Mariana Barangay Hall,Mariana Barangay Hall,True,Mariana Barangay Hall,1.000,exact,288567.434,1616859.705
+MDHab,Masambong,Masambong,True,Masambong Barangay Hall,0.950,fuzzy,285773.291,1619592.725
+MDHab,Nagkaisang Nayon,Nagkaisang Nayon,True,Nagkaisang Nayon Barangay Hall,0.950,fuzzy,287738.426,1628197.720
+MDHab,New Era Brgy Hall,New Era Brgy Hall,True,New Era Barangay Hall,1.000,exact,291030.140,1622171.794
+MDHab,North Fairview Elementary School,North Fairview Elementary School,True,North Fairview Elementary School,1.000,exact,291760.033,1626999.909
+MDHab,Old Balara Elementary School,Old Balara Elementary School,True,Old Balara Elementary School,1.000,exact,292855.572,1623020.431
+MDHab,Pansol Kaingin 1 Brgy Satellite Office,Pansol Kaingin 1 Brgy Satellite Office,True,Kaingin 1 Satellite Office,0.950,fuzzy,293521.752,1621108.528
+MDHab,Payatas ES,Payatas ES,True,Payatas C Elementary School,0.950,fuzzy,295203.467,1627618.829
+MDHab,Phil-Am,Phil-Am,True,Phil-Am,1.000,exact,287986.342,1620385.152
+MDHab,Pinyahan Multipurose Hall,Pinyahan Multipurose Hall,False,,0.764,unmatched,,
+MDHab,Placido Del Mundo Elementary School,Placido Del Mundo Elementary School,True,Placido Del Mundo Elementary School,1.000,exact,287371.872,1624649.427
+MDHab,Project 6 Barangay Hall,Project 6 Barangay Hall,True,Project 6 Barangay Hall,1.000,exact,289021.800,1621932.541
+MDHab,QCU,QCU,True,Quezon City University - San Francisco,0.950,fuzzy,287493.783,1621391.154
+MDHab,Quezon City University San Francisco Campus,Quezon City University San Francisco Campus,True,Quezon City University - San Francisco,0.950,fuzzy,287493.783,1621391.154
+MDHab,Quirino High School,Quirino High School,True,Quirino High School,1.000,exact,291846.519,1618454.108
+MDHab,Ramon Magsaysay Brgy Hall,Ramon Magsaysay Brgy Hall,True,Ramon Magsaysay Barangay Hall,1.000,exact,286966.496,1621560.505
+MDHab,Ramon Magsaysay Elementary School,Ramon Magsaysay Elementary School,True,Ramon Magsaysay Elementary School,1.000,exact,284385.533,1618238.038
+MDHab,Ramon Magsaysay HS,Ramon Magsaysay HS,True,Ramon Magsaysay High School,1.000,exact,289636.034,1618019.289
+MDHab,Sacred Heart BH,Sacred Heart BH,False,,0.757,unmatched,,
+MDHab,San Agustin Brgy Hall,San Agustin Brgy Hall,True,San Agustin Barangay Hall,1.000,exact,288871.383,1629306.412
+MDHab,San Roque Barangay Hall,San Roque Barangay Hall,True,San Roque Barangay Hall,1.000,exact,291399.892,1617015.073
+MDHab,Sauyo Elementary School,Sauyo Elementary School,True,Sauyo Elementary School,1.000,exact,289292.118,1624885.199
+MDHab,Sikatuna Brgy Hall,Sikatuna Brgy Hall,True,Sikatuna Village Barangay Hall,0.950,fuzzy,290951.711,1618954.121
+MDHab,South Triangle,South Triangle,True,South Triangle,1.000,exact,287419.916,1619107.515
+MDHab,Talipapa,Talipapa,True,Talipapa,1.000,exact,287662.461,1625028.309
+MDHab,Tandang Sora,Tandang Sora,True,Tandang Sora Barangay Hall,0.950,fuzzy,288097.525,1624060.142
+MDHab,Toro Hills Elementary School,Toro Hills Elementary School,True,Toro Hills Elementary School,1.000,exact,286796.765,1622158.533
+MDHab,Ugong Norte,Ugong Norte,True,Ugong Norte Barangay Hall,0.950,fuzzy,292120.514,1614707.566
+MDHab,UP Village,UP Village,True,UP Village Barangay Hall,0.950,fuzzy,290878.182,1620301.434
+MDHab,White Plains Barangay Hall,White Plains Barangay Hall,True,White Plains Barangay Hall,1.000,exact,292251.946,1615371.829
