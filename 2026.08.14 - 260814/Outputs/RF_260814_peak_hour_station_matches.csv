@@ -1,0 +1,74 @@
+﻿source,gis_station_name,data_station,match_score,match_method,rain_mm
+AWS,Balingasa Elementary School,Balingasa Elementary School,1.0,exact,13.2
+AWS,Commonwealth High School,Commonwealth High School,1.0,exact,11.71
+AWS,Flora A. Ylagan High School,Flora A Ylagan High School,1.0,exact,10.6
+AWS,Kaunlaran Barangay Hall,Kaunlaran Barangay Hall,1.0,exact,4.8
+AWS,Lagro High School,Lagro High School,1.0,exact,7.8
+AWS,Lupang Pangako Elementary School,Lupang Pangako Elementary School,1.0,exact,15.4
+AWS,Placido Del Mundo Elementary School,Placido Del Mundo Elementary School,1.0,exact,13.4
+AWS,Project 6 Barangay Hall,Project 6 Barangay Hall,1.0,exact,15.8
+AWS,Ramon Magsaysay Elementary School,Ramon Magsaysay Elementary School,1.0,exact,10.6
+AWS,San Roque Barangay Hall,San Roque Barangay Hall,1.0,exact,4.0
+Rain Gauge,Aurora A Quezon Elementary School,Aurora A. Quezon ES,1.0,exact,13.0
+Rain Gauge,Bagong Lipunan ng Crame Barangay Hall,Bagong Lipunan ng Crame Brgy. Hall,1.0,exact,4.0
+Rain Gauge,Bagumbayan Elementary School,Bagumbayan ES,1.0,exact,5.0
+Rain Gauge,Balingasa Elementary School,Balingasa Elementary School,1.0,exact,13.2
+Rain Gauge,Balingasa High School,Balingasa High School,1.0,exact,11.79
+Rain Gauge,Batasan Hills,Batasan Hills,1.0,exact,11.79
+Rain Gauge,Commonwealth High School,Commonwealth High School,1.0,exact,11.71
+Rain Gauge,Doña Juana Elementary School,Dona Juana Elementary School,1.0,exact,0.0
+Rain Gauge,Flora A. Ylagan High School,Flora A Ylagan High School,1.0,exact,10.6
+Rain Gauge,Holy Spirit,Holy Spirit,1.0,exact,42.5
+Rain Gauge,Ismael Mathay Senior High School,Ismael Mathay Senior High School,1.0,exact,11.79
+Rain Gauge,Jose Maria Panganiban Senior High School,Jose Maria Panganiban Senior High School,1.0,exact,6.0
+Rain Gauge,Jose P. Laurel Senior High School,Jose P Laurel Senior High School,1.0,exact,6.0
+Rain Gauge,Kalusugan Barangay Hall,Kalusugan Brgy Hall,1.0,exact,14.5
+Rain Gauge,Kaunlaran Barangay Hall,Kaunlaran Barangay Hall,1.0,exact,4.8
+Rain Gauge,Lagro High School,Lagro High School,1.0,exact,7.8
+Rain Gauge,Libis,Libis,1.0,exact,8.0
+Rain Gauge,Lupang Pangako Elementary School,Lupang Pangako Elementary School,1.0,exact,15.4
+Rain Gauge,Maharlika Barangay Hall,Maharlika Brgy Hall,1.0,exact,13.5
+Rain Gauge,Maligaya High School,Maligaya High School,1.0,exact,3.0
+Rain Gauge,Mariana Barangay Hall,Mariana Barangay Hall,1.0,exact,6.5
+Rain Gauge,New Era Barangay Hall,New Era Brgy Hall,1.0,exact,16.5
+Rain Gauge,North Fairview Elementary School,North Fairview Elementary School,1.0,exact,13.5
+Rain Gauge,Old Balara Elementary School,Old Balara Elementary School,1.0,exact,15.5
+Rain Gauge,Phil-Am,Phil-Am,1.0,exact,37.5
+Rain Gauge,Placido Del Mundo Elementary School,Placido Del Mundo Elementary School,1.0,exact,13.4
+Rain Gauge,Project 6 Barangay Hall,Project 6 Barangay Hall,1.0,exact,15.8
+Rain Gauge,Quirino High School,Quirino High School,1.0,exact,6.0
+Rain Gauge,Ramon Magsaysay Barangay Hall,Ramon Magsaysay Brgy Hall,1.0,exact,15.0
+Rain Gauge,Ramon Magsaysay Elementary School,Ramon Magsaysay Elementary School,1.0,exact,10.6
+Rain Gauge,Ramon Magsaysay High School,Ramon Magsaysay HS,1.0,exact,8.5
+Rain Gauge,San Agustin Barangay Hall,San Agustin Brgy Hall,1.0,exact,3.0
+Rain Gauge,San Roque Barangay Hall,San Roque Barangay Hall,1.0,exact,4.0
+Rain Gauge,Sauyo Elementary School,Sauyo Elementary School,1.0,exact,8.0
+Rain Gauge,South Triangle,South Triangle,1.0,exact,37.5
+Rain Gauge,Talipapa,Talipapa,1.0,exact,11.79
+Rain Gauge,Toro Hills Elementary School,Toro Hills Elementary School,1.0,exact,12.0
+Rain Gauge,White Plains Barangay Hall,White Plains Barangay Hall,1.0,exact,3.0
+Rain Gauge,Barangay Baesa Multi-Purpose Hall,Brgy.Tatalon Multipurpose Hall,0.8787878787878788,fuzzy,15.5
+Rain Gauge,Barangay Sacred Heart Hall,Brgy N.S Amoranto Hall,0.7307692307692307,fuzzy,13.5
+Rain Gauge,Barangay Tatalon Multipurpose Building,Brgy.Tatalon Multipurpose Hall,0.8611111111111112,fuzzy,15.5
+Rain Gauge,Carlos P. Garcia Highschool,Carlos P. Garcia HS,0.9811320754716981,fuzzy,9.0
+Rain Gauge,Dona Imelda Barangay Hall,New Era Brgy Hall,0.782608695652174,fuzzy,16.5
+Rain Gauge,Emilio Jacinto National High School,Emilio Jacinto Sr HS,0.8823529411764706,fuzzy,13.0
+Rain Gauge,Kaingin 1 Satellite Office,Pansol Kaingin 1 Brgy Satellite Office,0.7647058823529411,fuzzy,16.0
+Rain Gauge,Kaligayahan Barangay Hall,Kaunlaran Barangay Hall,0.8333333333333334,fuzzy,4.8
+Rain Gauge,Laging Handa Barangay Hall,Mariana Barangay Hall,0.8085106382978723,fuzzy,6.5
+Rain Gauge,Masambong Barangay Hall,Mariana Barangay Hall,0.8181818181818182,fuzzy,6.5
+Rain Gauge,N.S Amoranto Barangay Hall,Kaunlaran Barangay Hall,0.7755102040816326,fuzzy,4.8
+Rain Gauge,NS Amoranto Sports Complex,Amoranto Sport Complex,0.9166666666666666,fuzzy,14.5
+Rain Gauge,Payatas C Elementary School,Payatas ES,0.9615384615384616,fuzzy,15.5
+Rain Gauge,Pinyahan Barangay Hall,Kaunlaran Barangay Hall,0.8,fuzzy,4.8
+Rain Gauge,Quezon City University - San Francisco,Quezon City University San Francisco Campus,0.9113924050632911,fuzzy,18.0
+Rain Gauge,Sikatuna Village Barangay Hall,Sikatuna Brgy Hall,0.8461538461538461,fuzzy,9.5
+Rain Gauge,Tandang Sora Barangay Hall,New Era Brgy Hall,0.7659574468085106,fuzzy,16.5
+Rain Gauge,UP Village Barangay Hall,Kaunlaran Barangay Hall,0.723404255319149,fuzzy,4.8
+Rain Gauge,Ugong Norte Barangay Hall,New Era Brgy Hall,0.7391304347826086,fuzzy,16.5
+Rain Gauge,Valencia Barangay Hall,Maharlika Brgy Hall,0.8,fuzzy,13.5
+Rain Gauge,Bagong Silangan REC,,0.6538461538461539,unmatched,
+Rain Gauge,Barangay Fairview (Regional Evacuation Center),,0.6493506493506493,unmatched,
+Rain Gauge,Nagkaisang Nayon Barangay Hall,,0.7169811320754716,unmatched,
+Rain Gauge,QCDRRMO Building,,0.42424242424242425,unmatched,
+Rain Gauge,QCPU,,0.23076923076923078,unmatched,

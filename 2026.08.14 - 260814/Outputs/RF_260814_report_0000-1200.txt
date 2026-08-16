@@ -1,0 +1,58 @@
+QUEZON CITY RAINFALL REPORT
+14 August 2026 | 00:00-12:00 PHT
+========================================================================
+
+ANALYSIS BASIS
+- Workbook: C:\Users\QCUSER\Documents\Analysis\2026.08.14 - 260814\Processed Data\RF_260814.xlsx
+- Timestamps included: 2026-08-14 00:00 to 2026-08-14 12:00
+- Hourly rows used: 13
+- Unique rainfall stations after duplicate-column consolidation: 63
+- Valid stations per hour: min=63, max=63, mean=63.0
+- All expected hourly timestamps in the configured period are present.
+- Duplicate station header groups consolidated: 10
+    * Balingasa Elementary School: Balingasa Elementary School, Balingasa Elementary School.1
+    * Commonwealth High School: Commonwealth High School, Commonwealth High School.1
+    * Flora A Ylagan High School: Flora A Ylagan High School, Flora A Ylagan High School.1
+    * Kaunlaran Barangay Hall: Kaunlaran Barangay Hall, Kaunlaran Barangay Hall.1
+    * Lagro High School: Lagro High School, Lagro High School.1
+    * Lupang Pangako Elementary School: Lupang Pangako Elementary School, Lupang Pangako Elementary School.1
+    * Placido Del Mundo Elementary School: Placido Del Mundo Elementary School, Placido Del Mundo Elementary School.1
+    * Project 6 Barangay Hall: Project 6 Barangay Hall, Project 6 Barangay Hall.1
+    * Ramon Magsaysay Elementary School: Ramon Magsaysay Elementary School, Ramon Magsaysay Elementary School.1
+    * San Roque Barangay Hall: San Roque Barangay Hall, San Roque Barangay Hall.1
+
+ANSWERS
+1. Mean accumulated rainfall from 00:00 to 12:00: 51.74 mm.
+   Definition: rainfall was accumulated separately for each unique station over the selected timestamps, then the ordinary mean of those station accumulations was taken.
+2. Peak network-mean hourly rainfall: 11.79 mm at 2026-08-14 09:00 PHT.
+3. Highest individual hourly station observation: 42.50 mm at Holy Spirit on 2026-08-14 09:00 PHT.
+4. Highest station accumulated rainfall in the period: 152.36 mm at Nagkaisang Nayon.
+
+TOP STATIONS AT THE NETWORK PEAK HOUR
+ 1. Holy Spirit: 42.50 mm
+ 2. South Triangle: 37.50 mm
+ 3. Phil-Am: 37.50 mm
+ 4. Quezon City University San Francisco Campus: 18.00 mm
+ 5. New Era Brgy Hall: 16.50 mm
+ 6. Brgy Fairview (REC): 16.50 mm
+ 7. Pansol Kaingin 1 Brgy Satellite Office: 16.00 mm
+ 8. Project 6 Barangay Hall: 15.80 mm
+ 9. Old Balara Elementary School: 15.50 mm
+10. Payatas ES: 15.50 mm
+
+DATA COMPLETENESS BY STATION
+- All stations have 13/13 valid hourly observations in the selected period.
+
+GIS / PEAK-HOUR MAP DIAGNOSTICS
+- AWS features identified in EWS shapefile: 10
+- Rain-gauge name field selected: LOCATION
+- AWS name field selected: Location
+- GIS station features considered: 73
+- GIS features matched to an Excel rainfall station: 68
+- GIS features not matched to rainfall data: 5
+- Unique station measurements used for IDW interpolation: 47
+- Working map CRS: EPSG:3123
+- Full GIS matching details: RF_260814_peak_hour_station_matches.csv
+
+INTERPRETATION NOTE
+The citywide accumulated figure is a network mean, not the rainfall total at every location. Localized station totals and hourly peaks can be substantially higher or lower. The peak-hour map uses IDW interpolation as a visualization aid; station observations remain the authoritative measured values.
