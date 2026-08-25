@@ -1,0 +1,21 @@
+QC summary: Aug08-10
+========================================================================
+
+Automatic rejection rules:
+- Negative rainfall: rejected
+- Hard hourly ceiling: > 300 mm/h rejected
+- Additional network outlier: value must be >= 150 mm/h, >= 3x network median, >= 100 mm above network median, and extremely unusual by robust MAD/IQR statistics
+- Missing values remain missing and are excluded; they are never replaced with zero.
+
+invalid_timestamp_rows_removed: 0
+rows_outside_event_removed: 0
+duplicate_timestamp_rows_collapsed: 0
+malformed_rainfall_cells_rejected: 0
+missing_cells_after_reindex_before_sensor_qc: 0
+input_station_columns: 62
+active_sensors: 62
+excluded_sensors: 0
+hard_or_malformed_rejections: 0
+obvious_network_outlier_rejections: 0
+total_rejected_values: 0
+remaining_missing_cells: 0

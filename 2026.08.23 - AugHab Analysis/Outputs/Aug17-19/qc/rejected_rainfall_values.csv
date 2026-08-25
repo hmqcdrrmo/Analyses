@@ -1,0 +1,4 @@
+﻿event,timestamp,station,original_value,reason,network_median_mm,modified_z,network_ratio,network_difference_mm,iqr_extreme_upper_mm
+Aug17-19,2026-08-18 22:00,Ismael Mathay Senior High School,894.200,above_hard_limit_300_mm,,,,,
+Aug17-19,2026-08-18 22:00,New Era Brgy Hall,546.990,above_hard_limit_300_mm,,,,,
+Aug17-19,2026-08-18 22:00,Talipapa,761.490,above_hard_limit_300_mm,,,,,

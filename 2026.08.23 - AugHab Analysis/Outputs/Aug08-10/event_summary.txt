@@ -1,0 +1,41 @@
+Aug08-10 (08-10 Aug 2026)
+========================================================================
+
+Rainfall metric notes:
+- Hourly rainfall = mean across valid active rain gauges reporting that hour.
+- Daily accumulation = mean of station daily sums from available valid observations.
+- A station-day may contribute even when some hours are missing; missing hours are skipped, not filled with zero.
+- Event accumulation = sum of available daily mean accumulations.
+- Missing values and rejected outliers are not treated as zero rainfall.
+
+DAILY SUMMARY
+08 Aug 2026
+  Daily accumulated rainfall: 128.70 mm
+  Peak hourly mean rainfall: 18.18 mm/h at 08 Aug 2026 10:00
+  Total flood reports: 108
+  Peak hourly flood reports: 24 at 08 Aug 2026 12:00
+
+09 Aug 2026
+  Daily accumulated rainfall: 108.53 mm
+  Peak hourly mean rainfall: 22.43 mm/h at 09 Aug 2026 10:00
+  Total flood reports: 77
+  Peak hourly flood reports: 21 at 09 Aug 2026 12:00
+
+10 Aug 2026
+  Daily accumulated rainfall: 135.14 mm
+  Peak hourly mean rainfall: 24.84 mm/h at 10 Aug 2026 20:00
+  Total flood reports: 189
+  Peak hourly flood reports: 62 at 10 Aug 2026 21:00
+
+WHOLE EVENT
+Event accumulated rainfall: 372.37 mm
+Peak hourly mean rainfall: 24.84 mm/h at 10 Aug 2026 20:00
+Total flood reports: 374
+Peak hourly flood reports: 62 at 10 Aug 2026 21:00
+
+QC
+Active rain gauges: 62 of 62
+Excluded rain gauges: 0
+Rejected rainfall values: 0
+  of which obvious network outliers: 0
+Remaining missing rainfall cells: 0

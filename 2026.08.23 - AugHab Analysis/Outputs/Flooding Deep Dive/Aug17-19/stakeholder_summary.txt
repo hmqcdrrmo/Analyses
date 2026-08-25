@@ -1,0 +1,35 @@
+﻿17-19 Aug 2026 FLOODING DEEP-DIVE
+==================================
+
+EVENT SCALE
+- Flood reports: 268
+- Unique flooded areas: 175
+- Affected barangays: 46
+
+SPATIAL CONCENTRATION
+- Most unique flooded areas: Sto. Domingo (Matalahib) (30 areas; 59 reports).
+- Most flood reports: Sto. Domingo (Matalahib) (59 reports).
+- The top five barangays accounted for 52.0% of all unique flooded areas.
+
+PERSISTENCE
+- Average flood duration: 256 minutes.
+- Median flood duration: 176 minutes.
+- 90% of valid-duration reports lasted about 512 minutes or less.
+- Longest recorded flood duration: 784 minutes.
+
+SIMULTANEOUS FLOODING
+- Peak concurrent unique flooded areas: 120 at 17 Aug 2026 14:30.
+
+RECURRENCE / HOTSPOTS
+- Recurring hotspot locations: 58.
+- Most repeatedly reported location: Sienna — N.S. Amoranto Sr. St cor. Palali St (4 reports across 3 day(s)).
+
+DAILY PEAK
+- Greatest daily spatial extent by report locations: 17 Aug 2026 with 141 unique flooded areas and 171 reports.
+
+INTERPRETATION NOTES
+- 'Flood reports' counts every report row.
+- 'Unique flooded areas' counts cleaned locations, reducing inflation from repeated updates.
+- Intersections written as 'X cor Y' and 'Y cor X' are treated as one location.
+- 'Reported flood-hours' is the sum of report durations. Concurrent reports can overlap, so it is a workload/persistence indicator rather than a physical inundated-area measure.
+- Concurrent flooding uses only reports with usable start and end times.

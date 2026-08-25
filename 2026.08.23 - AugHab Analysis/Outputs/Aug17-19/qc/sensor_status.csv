@@ -1,0 +1,64 @@
+﻿event,station,included_in_analysis,status,reason,valid_observations,expected_observations,positive_observations,network_wet_hours,zero_when_network_wet_fraction,minimum_mm,maximum_mm
+Aug17-19,Amoranto Sport Complex,True,active,,61,72,38,20,0.000,0.000,63.500
+Aug17-19,Aurora A. Quezon ES,True,active,,63,72,40,20,0.000,0.000,56.500
+Aug17-19,Bagong Lipunan ng Crame Brgy. Hall,True,active,,63,72,42,20,0.000,0.000,42.000
+Aug17-19,Bagong Silangan Evacuation Center,True,active,,63,72,41,20,0.000,0.000,49.000
+Aug17-19,Bagumbayan ES,True,active,,63,72,42,20,0.000,0.000,36.000
+Aug17-19,Balingasa Elementary School,True,active,,63,72,42,20,0.000,0.000,77.220
+Aug17-19,Balingasa High School,True,active,,56,72,51,20,0.000,0.000,72.010
+Aug17-19,Batasan Hills,True,active,,63,72,60,20,0.000,0.000,41.100
+Aug17-19,Brgy Baesa Hall,True,active,,63,72,36,20,0.100,0.000,56.000
+Aug17-19,Brgy Fairview (REC),True,active,,63,72,38,20,0.100,0.000,28.500
+Aug17-19,Brgy N.S Amoranto Hall,True,active,,63,72,32,20,0.050,0.000,74.000
+Aug17-19,Brgy Valencia Hall,True,active,,60,72,39,20,0.000,0.000,46.500
+Aug17-19,Brgy.Tatalon Multipurpose Hall,True,active,,63,72,43,20,0.000,0.000,63.000
+Aug17-19,Carlos P. Garcia HS,True,active,,63,72,42,20,0.000,0.000,52.500
+Aug17-19,Commonwealth High School,True,active,,56,72,44,20,0.263,0.000,37.550
+Aug17-19,Dona Imelda,True,active,,63,72,44,20,0.000,0.000,53.500
+Aug17-19,Dona Juana Elementary School,True,active,,63,72,14,20,0.700,0.000,19.600
+Aug17-19,Emilio Jacinto Sr HS,True,active,,63,72,38,20,0.100,0.000,65.000
+Aug17-19,Flora A Ylagan High School,True,active,,63,72,44,20,0.000,0.000,60.010
+Aug17-19,Holy Spirit,True,active,,63,72,43,20,0.000,0.000,156.500
+Aug17-19,Ismael Mathay Senior High School,True,active,,55,72,51,20,0.053,0.000,53.180
+Aug17-19,Jose Maria Panganiban Senior High School,True,active,,63,72,40,20,0.100,0.000,37.500
+Aug17-19,Jose P Laurel Senior High School,True,active,,63,72,41,20,0.000,0.000,45.000
+Aug17-19,Kaligayahan,True,active,,63,72,39,20,0.050,0.000,57.500
+Aug17-19,Kalusugan Brgy Hall,True,active,,63,72,41,20,0.050,0.000,58.000
+Aug17-19,Kaunlaran Barangay Hall,True,active,,63,72,44,20,0.050,0.000,46.610
+Aug17-19,Laging Handa Hall,True,active,,63,72,35,20,0.200,0.000,59.500
+Aug17-19,Lagro High School,True,active,,63,72,44,20,0.050,0.000,44.810
+Aug17-19,Libis,True,active,,63,72,42,20,0.000,0.000,38.500
+Aug17-19,Lupang Pangako Elementary School,True,active,,63,72,42,20,0.050,0.000,31.610
+Aug17-19,Maharlika Brgy Hall,True,active,,63,72,37,20,0.000,0.000,84.000
+Aug17-19,Maligaya High School,True,active,,63,72,41,20,0.050,0.000,53.000
+Aug17-19,Mariana Barangay Hall,True,active,,63,72,44,20,0.000,0.000,47.500
+Aug17-19,Masambong,True,active,,63,72,39,20,0.000,0.000,79.500
+Aug17-19,Nagkaisang Nayon,True,active,,63,72,46,20,0.050,0.000,115.500
+Aug17-19,New Era Brgy Hall,True,active,,62,72,46,20,0.000,0.000,67.500
+Aug17-19,North Fairview Elementary School,True,active,,63,72,38,20,0.050,0.000,29.000
+Aug17-19,Old Balara Elementary School,True,active,,63,72,40,20,0.000,0.000,59.000
+Aug17-19,Pansol Kaingin 1 Brgy Satellite Office,True,active,,63,72,41,20,0.000,0.000,61.000
+Aug17-19,Payatas ES,True,active,,63,72,40,20,0.100,0.000,31.000
+Aug17-19,Phil-Am,True,active,,63,72,42,20,0.000,0.000,186.000
+Aug17-19,Pinyahan Multipurose Hall,True,active,,63,72,42,20,0.050,0.000,63.500
+Aug17-19,Placido Del Mundo Elementary School,True,active,,63,72,41,20,0.100,0.000,42.210
+Aug17-19,Project 6 Barangay Hall,True,active,,63,72,41,20,0.000,0.000,68.220
+Aug17-19,QCU,True,active,,63,72,40,20,0.050,0.000,23.500
+Aug17-19,Quezon City DRRMO,True,active,,56,72,51,20,0.000,0.000,59.900
+Aug17-19,Quezon City University San Francisco Campus,True,active,,61,72,38,20,0.000,0.000,76.500
+Aug17-19,Quirino High School,True,active,,63,72,41,20,0.000,0.000,48.500
+Aug17-19,Ramon Magsaysay Brgy Hall,True,active,,63,72,39,20,0.050,0.000,72.500
+Aug17-19,Ramon Magsaysay Elementary School,True,active,,63,72,45,20,0.000,0.000,73.420
+Aug17-19,Ramon Magsaysay HS,True,active,,63,72,40,20,0.050,0.000,52.000
+Aug17-19,Sacred Heart BH,True,active,,63,72,40,20,0.000,0.000,57.000
+Aug17-19,San Agustin Brgy Hall,True,active,,63,72,38,20,0.150,0.000,52.500
+Aug17-19,San Roque Barangay Hall,True,active,,63,72,22,20,0.700,0.000,10.200
+Aug17-19,Sauyo Elementary School,True,active,,63,72,51,20,0.150,0.000,16.000
+Aug17-19,Sikatuna Brgy Hall,True,active,,63,72,41,20,0.000,0.000,50.500
+Aug17-19,South Triangle,True,active,,63,72,48,20,0.000,0.000,194.500
+Aug17-19,Talipapa,True,active,,55,72,50,20,0.053,0.000,38.670
+Aug17-19,Tandang Sora,False,all_zero_while_network_wet,Likely inactive sensor,63,72,0,20,1.000,0.000,0.000
+Aug17-19,Toro Hills Elementary School,True,active,,63,72,41,20,0.000,0.000,63.500
+Aug17-19,Ugong Norte,True,active,,63,72,58,20,0.000,0.000,42.690
+Aug17-19,UP Village,True,active,,63,72,42,20,0.000,0.000,64.000
+Aug17-19,White Plains Barangay Hall,True,active,,63,72,40,20,0.000,0.000,42.000
